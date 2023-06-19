@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO MINAS
 http://x90.live:80/valmir/654321/82984
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT
@@ -8,16 +7,12 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 http://x90.live:80/valmir/654321/138098
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Religiosos",TV Aparecida HD
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="bandbahia.br" tvg-name="BAND BAHIA - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Yd76l93uXK0hpRs3gqF7vuEvRnNGu-sT1-ReT4OT6-X.jpg" group-title="BAND",BAND BAHIA
-http://x90.live:80/valmir/654321/138774175
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/vcxg5A9.png" group-title="Religiosos",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/r22w1v6.png" group-title="Religiosos",TV Evangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="TV Aberta",TV Cultura PR HD
 http://200.189.113.201/hls/tve.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="FUTURA" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura
-http://origin-02.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP HD
