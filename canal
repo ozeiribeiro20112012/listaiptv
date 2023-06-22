@@ -6,8 +6,8 @@ http://acsb.sh:80/bF3y9W/68GSme/131178.ts
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-logo="http://a5.vc/0hM",Rede Vida HD
 http://acsb.sh:80/bF3y9W/68GSme/72295.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR",RedeTV HD
-http://acsb.sh:80/bF3y9W/68GSme/72299.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n2B8k7H.png" group-title="TV Aberta",REDETV SP HD
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w623693918.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/RbB",TV Aparecida HD
 http://acsb.sh:80/bF3y9W/68GSme/72396.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/QZr",TV Gazeta SP HD
@@ -15,8 +15,8 @@ http://acsb.sh:80/bF3y9W/68GSme/72406.ts
 #EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RJ HD
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="BAND SP" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band SP
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="BAND SP" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band PA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png",Cultura HD
 http://acsb.sh:80/bF3y9W/68GSme/71853.ts
