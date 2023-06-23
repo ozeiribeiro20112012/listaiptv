@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv",GLOBO
 http://acsb.sh:80/bF3y9W/68GSme/131178.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo",SBT HD
+#EXTINF:-1 type="stream" tvg-id="Cancao nova" tvg-logo="https://i.ibb.co/4SW5kYN/tvcancaonova.png" group-title="TV Aberta",Cancao nova
+http://lb.kstream.org/aovivo/SD_CANCAO_NOVA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-logo="http://a5.vc/0hM",Rede Vida HD
 http://acsb.sh:80/bF3y9W/68GSme/72295.ts
@@ -14,10 +16,8 @@ http://acsb.sh:80/bF3y9W/68GSme/72396.ts
 http://acsb.sh:80/bF3y9W/68GSme/72406.ts
 #EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RJ HD
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="BAND SP" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band PA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png",Cultura HD
 http://acsb.sh:80/bF3y9W/68GSme/71853.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX",A&E HD
@@ -122,8 +122,6 @@ http://lb.kstream.org/aovivo/HD_CANAL_BRASIL/video.m3u8?token=d40dbc9b081b7745b3
 http://lb.kstream.org/aovivo/HD_CANAL_BRASIL_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Canal Rural" tvg-logo="https://i.ibb.co/fxWk6Mh/canalruralb.png" group-title="TV Aberta",Canal Rural
 http://lb.kstream.org/aovivo/SD_CANAL_RURAL/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Cancao nova" tvg-logo="https://i.ibb.co/4SW5kYN/tvcancaonova.png" group-title="TV Aberta",Cancao nova
-http://lb.kstream.org/aovivo/SD_CANCAO_NOVA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network
 http://lb.kstream.org/aovivo/SD_CARTOON_NETWORK/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Cartoon Network FHD" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network FHD
