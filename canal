@@ -7,7 +7,7 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 #EXTINF:-1 type="stream" tvg-id="Cancao nova" tvg-logo="https://i.ibb.co/4SW5kYN/tvcancaonova.png" group-title="TV Aberta",Cancao nova
 http://lb.kstream.org/aovivo/SD_CANCAO_NOVA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 tvg-logo="http://a5.vc/0hM",Rede Vida HD
-http://acsb.sh:80/bF3y9W/68GSme/72295.ts
+http://lb.kstream.org/aovivo/HD_REDE_VIDA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n2B8k7H.png" group-title="TV Aberta",REDETV SP HD
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w623693918.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/RbB",TV Aparecida HD
