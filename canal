@@ -562,9 +562,10 @@ http://lb.kstream.org/aovivo/HD_LIFETIME/video.m3u8?token=d40dbc9b081b7745b3b616
 http://lb.kstream.org/aovivo/HD_LIFETIME_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="MTV" tvg-logo="https://i.ibb.co/W5VwW2N/mtvb.png" group-title="Entretenimento e Musica",MTV
 http://lb.kstream.org/aovivo/SD_MTV/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv",VIVA
+#EXTINF:-1,VIVA
 http://lb.kstream.org/aovivo/HD_VIVA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-
+#EXTINF:-1,MEGAPIX HD
+http://lb.kstream.org/aovivo/FHD_MEGAPIX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 
 
