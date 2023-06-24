@@ -566,8 +566,10 @@ http://lb.kstream.org/aovivo/SD_MTV/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7
 http://lb.kstream.org/aovivo/HD_VIVA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,MEGAPIX HD
 http://lb.kstream.org/aovivo/FHD_MEGAPIX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-
-
+#EXTINF:-1,NICKELODEON
+http://lb.kstream.org/aovivo/FHD_NICKELODEON/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1,TNT
+http://lb.kstream.org/aovivo/FHD_TNT/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun",AMC HD
 http://acsb.sh:80/bF3y9W/68GSme/71770.ts
