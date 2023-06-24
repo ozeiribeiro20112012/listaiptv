@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv",GLOBO
-http://acsb.sh:80/bF3y9W/68GSme/131178.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo",SBT HD
+#EXTINF:-1 type="stream" tvg-id="Globo Minas FHD" tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="TV Aberta",Globo Minas
+http://lb.kstream.org/aovivo/FHD_GLOBO_MG/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo",SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 type="stream" tvg-id="Cancao nova" tvg-logo="https://i.ibb.co/4SW5kYN/tvcancaonova.png" group-title="TV Aberta",Cancao nova
 http://lb.kstream.org/aovivo/SD_CANCAO_NOVA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
@@ -386,8 +386,6 @@ http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_GRANDE_MINAS/video.m3u8?token=d40d
 http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_SERRA_MAR/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Globo Minas" tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="TV Aberta",Globo Minas
 http://lb.kstream.org/aovivo/SD_GLOBO_MINAS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo Minas FHD" tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="TV Aberta",Globo Minas FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_MG/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Globo Minas HD" tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="TV Aberta",Globo Minas HD
 http://lb.kstream.org/aovivo/HD_GLOBO_MINAS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Globo NSC Blumenau" tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="TV Aberta",Globo NSC Blumenau
@@ -571,7 +569,6 @@ http://lb.kstream.org/aovivo/HD_LIFETIME/video.m3u8?token=d40dbc9b081b7745b3b616
 http://lb.kstream.org/aovivo/HD_LIFETIME_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="MTV" tvg-logo="https://i.ibb.co/W5VwW2N/mtvb.png" group-title="Entretenimento e Musica",MTV
 http://lb.kstream.org/aovivo/SD_MTV/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun",AMC HD
 http://acsb.sh:80/bF3y9W/68GSme/71770.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8",Animal Planet HD
