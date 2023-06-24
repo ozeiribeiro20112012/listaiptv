@@ -3,7 +3,7 @@
 #EXTINF:-1 type="stream" tvg-id="Globo Minas FHD" tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="TV Aberta",Globo Minas
 http://lb.kstream.org/aovivo/FHD_GLOBO_MG/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo",SBT
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://lb.kstream.org/aovivo/HD_SBT/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Cancao nova" tvg-logo="https://i.ibb.co/4SW5kYN/tvcancaonova.png" group-title="TV Aberta",Cancao nova
 http://lb.kstream.org/aovivo/SD_CANCAO_NOVA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 tvg-logo="http://a5.vc/0hM",Rede Vida HD
@@ -18,12 +18,6 @@ http://acsb.sh:80/bF3y9W/68GSme/72406.ts
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="BAND SP" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band PA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png",Cultura HD
-http://acsb.sh:80/bF3y9W/68GSme/71853.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX",A&E HD
-http://acsb.sh:80/bF3y9W/68GSme/71762.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png",AgroMais HD
-http://acsb.sh:80/bF3y9W/68GSme/71766.ts
 #EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E
 http://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E FHD
