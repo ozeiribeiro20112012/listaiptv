@@ -8,7 +8,7 @@ http://lb.kstream.org/aovivo/HD_SBT/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7
 http://lb.kstream.org/aovivo/HD_CANCAO_NOVA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 tvg-logo="http://a5.vc/0hM",Rede Vida HD
 http://lb.kstream.org/aovivo/HD_REDE_VIDA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 tvg-id="" tvg-name=",JOVEM PAN NEWS
+#EXTINF:-1 tvg-id="JOVEM PAN NEWS" tvg-logo="https://media.gazetadopovo.com.br/2021/11/09172455/ALTERA%C3%87%C3%83O03_Logo_2.jpg" group-title="TV Aberta",JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n2B8k7H.png" group-title="TV Aberta",REDETV SP HD
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w623693918.m3u8
@@ -352,112 +352,6 @@ http://lb.kstream.org/aovivo/SD_GNT/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7
 http://lb.kstream.org/aovivo/HD_GNT/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="GNT HD [Alter]" tvg-logo="https://i.ibb.co/DDW7Xcz/gnt.png" group-title="Variedade",GNT HD [Alter]
 http://lb.kstream.org/aovivo/HD_GNT_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo Brasilia" tvg-logo="https://i.ibb.co/XFNf7mT/globodf.png" group-title="TV Aberta",Globo Brasilia
-http://lb.kstream.org/aovivo/SD_GLOBO_BRASILIA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo Brasilia HD" tvg-logo="https://i.ibb.co/XFNf7mT/globodf.png" group-title="TV Aberta",Globo Brasilia HD
-http://lb.kstream.org/aovivo/HD_GLOBO_BRASILIA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo EPTV Campinas" tvg-logo="https://i.ibb.co/MNLydJD/eptvcp.png" group-title="TV Aberta",Globo EPTV Campinas
-http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo EPTV Campinas HD" tvg-logo="https://i.ibb.co/MNLydJD/eptvcp.png" group-title="TV Aberta",Globo EPTV Campinas HD
-http://lb.kstream.org/aovivo/HD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo EPTV Central" tvg-logo="https://i.ibb.co/wdXPf5c/eptv.png" group-title="TV Aberta",Globo EPTV Central
-http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_CENTRAL/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo EPTV Ribeirao Preto" tvg-logo="https://i.ibb.co/26dt3GJ/eptvrp.png" group-title="TV Aberta",Globo EPTV Ribeirao Preto
-http://lb.kstream.org/aovivo/SD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo EPTV Ribeirao Preto HD" tvg-logo="https://i.ibb.co/26dt3GJ/eptvrp.png" group-title="TV Aberta",Globo EPTV Ribeirao Preto HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo EPTV Sao Carlos" tvg-logo="https://i.ibb.co/wdXPf5c/eptv.png" group-title="TV Aberta",Globo EPTV Sao Carlos
-http://lb.kstream.org/aovivo/SD_GLOBO_SAO_CARLOS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo EPTV Sul Minas" tvg-logo="https://i.ibb.co/wdXPf5c/eptv.png" group-title="TV Aberta",Globo EPTV Sul Minas
-http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_SUL_MINAS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo FHD" tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="TV Aberta",Globo FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_SP/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo Gazeta HD" tvg-logo="https://i.ibb.co/X3Q2bgf/tvgazeta.png" group-title="TV Aberta",Globo Gazeta HD
-http://lb.kstream.org/aovivo/HD_GAZETA_ES/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo Inter TV Cabugi" tvg-logo="https://i.ibb.co/8YHP162/intertv.png" group-title="TV Aberta",Globo Inter TV Cabugi
-http://lb.kstream.org/aovivo/SD_GLOBO_RN/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo InterTV Grande Minas" tvg-logo="https://i.ibb.co/8YHP162/intertv.png" group-title="TV Aberta",Globo InterTV Grande Minas
-http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_GRANDE_MINAS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo InterTV Serra Mar" tvg-logo="https://i.ibb.co/8YHP162/intertv.png" group-title="TV Aberta",Globo InterTV Serra Mar
-http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_SERRA_MAR/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo Minas" tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="TV Aberta",Globo Minas
-http://lb.kstream.org/aovivo/SD_GLOBO_MINAS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo Minas HD" tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="TV Aberta",Globo Minas HD
-http://lb.kstream.org/aovivo/HD_GLOBO_MINAS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo NSC Blumenau" tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="TV Aberta",Globo NSC Blumenau
-http://lb.kstream.org/aovivo/SD_GLOBO_NSC_BLUMENAU/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo Nordeste" tvg-logo="https://i.ibb.co/pJX7sX0/globone.png" group-title="TV Aberta",Globo Nordeste
-http://lb.kstream.org/aovivo/SD_GLOBO_NORDESTE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo Nordeste FHD" tvg-logo="https://i.ibb.co/pJX7sX0/globone.png" group-title="TV Aberta",Globo Nordeste FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_NORDESTE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo Nordeste HD" tvg-logo="https://i.ibb.co/pJX7sX0/globone.png" group-title="TV Aberta",Globo Nordeste HD
-http://lb.kstream.org/aovivo/HD_GLOBO_NORDESTE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo RBS POA FHD" tvg-logo="https://i.ibb.co/xgmfF2G/rbsrs.png" group-title="TV Aberta",Globo RBS POA FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_RBS_POA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo RBS POA HD" tvg-logo="https://i.ibb.co/xgmfF2G/rbsrs.png" group-title="TV Aberta",Globo RBS POA HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RBS_POA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo RBS Porto Alegre" tvg-logo="https://i.ibb.co/xgmfF2G/rbsrs.png" group-title="TV Aberta",Globo RBS Porto Alegre
-http://lb.kstream.org/aovivo/SD_GLOBO_RBS_POA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo RN" tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="TV Aberta",Globo RN
-http://lb.kstream.org/aovivo/SD_GLOBO_RN/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo RPC Curitiba" tvg-logo="https://i.ibb.co/4m6tCfj/rpc.png" group-title="TV Aberta",Globo RPC Curitiba
-http://lb.kstream.org/aovivo/SD_GLOBO_RPC_CURITIBA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo RPC Curitiba HD" tvg-logo="https://i.ibb.co/4m6tCfj/rpc.png" group-title="TV Aberta",Globo RPC Curitiba HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RPC_CURITIBA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo RPC Paranaense FHD" tvg-logo="https://i.ibb.co/4m6tCfj/rpc.png" group-title="TV Aberta",Globo RPC Paranaense FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_RPC_PARANAENSE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo Rede Amazonica" tvg-logo="https://i.ibb.co/4JDDrt1/redeamazonica.png" group-title="TV Aberta",Globo Rede Amazonica
-http://lb.kstream.org/aovivo/SD_GLOBO_AMAZONICA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo Rio" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="TV Aberta",Globo Rio
-http://lb.kstream.org/aovivo/SD_GLOBO_RJ/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo Rio FHD" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="TV Aberta",Globo Rio FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_RJ/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo Rio HD" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="TV Aberta",Globo Rio HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RJ/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo SP" tvg-logo="https://i.ibb.co/kxdMkfw/globosp.png" group-title="TV Aberta",Globo SP
-http://lb.kstream.org/aovivo/SD_GLOBO_SP/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo SP HD" tvg-logo="https://i.ibb.co/kxdMkfw/globosp.png" group-title="TV Aberta",Globo SP HD
-http://lb.kstream.org/aovivo/HD_GLOBO_SP/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo SP HD [Alter]" tvg-logo="https://i.ibb.co/kxdMkfw/globosp.png" group-title="TV Aberta",Globo SP HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOBO_SP_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Anhanguera Goiania" tvg-logo="https://i.ibb.co/vdfycw7/tvanhanguera.png" group-title="TV Aberta",Globo TV Anhanguera Goiania
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_ANHANGUERA_GO/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Asa Branca" tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="TV Aberta",Globo TV Asa Branca
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_ASA_BRANCA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Bahia" tvg-logo="https://i.ibb.co/rfHCD8Q/tvbahia.png" group-title="TV Aberta",Globo TV Bahia
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_BAHIA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Centro America Cuiaba" tvg-logo="https://i.ibb.co/YRKGJpw/tvcentroamerica.png" group-title="TV Aberta",Globo TV Centro America Cuiaba
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_CENTRO_AME_CUIABA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Integracao" tvg-logo="https://i.ibb.co/3pRCwyz/tvintegracao.png" group-title="TV Aberta",Globo TV Integracao
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_INTEGRACAO/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Liberal Belem" tvg-logo="https://i.ibb.co/jLMjV89/tvliberal.png" group-title="TV Aberta",Globo TV Liberal Belem
-http://lb.kstream.org/aovivo/SD_GLOBO_LIBERAL_BELEM/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Rio Sul" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="TV Aberta",Globo TV Rio Sul
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_RIO_SUL/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Santa Cruz" tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="TV Aberta",Globo TV Santa Cruz
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_SANTA_CRUZ/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Sergipe" tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="TV Aberta",Globo TV Sergipe
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_SERGIPE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Sergipe HD" tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="TV Aberta",Globo TV Sergipe HD
-http://lb.kstream.org/aovivo/HD_GLOBO_TV_SERGIPE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV TEM BAURU" tvg-logo="https://i.ibb.co/ngpbwgS/tvtem.png" group-title="TV Aberta",Globo TV TEM BAURU
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_BAURU/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV TEM S. J. DO RIO PRETO" tvg-logo="https://i.ibb.co/ngpbwgS/tvtem.png" group-title="TV Aberta",Globo TV TEM S. J. DO RIO PRETO
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_SJ_RIO_PRETO/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV TEM SOROCABA" tvg-logo="https://i.ibb.co/ngpbwgS/tvtem.png" group-title="TV Aberta",Globo TV TEM SOROCABA
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_SOROCABA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Tem Itapetininga" tvg-logo="https://i.ibb.co/ngpbwgS/tvtem.png" group-title="TV Aberta",Globo TV Tem Itapetininga
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_ITAPETININGA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Tribuna Santos" tvg-logo="https://i.ibb.co/mNyHghj/tvtribunaglobo.png" group-title="TV Aberta",Globo TV Tribuna Santos
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TRIBUNA_SANTOS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Vanguarda SJC" tvg-logo="https://i.ibb.co/xDJ77Nk/tvvanguarda.png" group-title="TV Aberta",Globo TV Vanguarda SJC
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_VANGUARDA_SJC/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Vanguarda Taubate" tvg-logo="https://i.ibb.co/xDJ77Nk/tvvanguarda.png" group-title="TV Aberta",Globo TV Vanguarda Taubate
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_VANGUARDA_TAUBATE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Verdes Mares" tvg-logo="https://i.ibb.co/WsNVZBP/tvverdesmares.png" group-title="TV Aberta",Globo TV Verdes Mares
-http://lb.kstream.org/aovivo/SD_GLOBO_VERDES_MARES/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Globo TV Verdes Mares HD" tvg-logo="https://i.ibb.co/WsNVZBP/tvverdesmares.png" group-title="TV Aberta",Globo TV Verdes Mares HD
-http://lb.kstream.org/aovivo/HD_GLOBO_TV_VERDES_MARES/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Globo Verdes Mares FHD" tvg-logo="https://i.ibb.co/WsNVZBP/tvverdesmares.png" group-title="TV Aberta",Globo Verdes Mares FHD
 http://lb.kstream.org/aovivo/FHD_GLOBO_VERDES_MARES/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="GloboNews" tvg-logo="https://i.ibb.co/Y0zj4xn/globonews.png" group-title="Notícia",GloboNews
