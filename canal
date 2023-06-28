@@ -18,8 +18,8 @@ http://lb.kstream.org/aovivo/HD_TV_APARECIDA/video.m3u8?token=d40dbc9b081b7745b3
 http://acsb.sh:80/bF3y9W/68GSme/72406.ts
 #EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RJ HD
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="BAND SP" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band PA
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 type="stream" tvg-id="Band SP" tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="TV Aberta",Band SP
+http://lb.kstream.org/aovivo/SD_BAND_SP/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E
 http://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E FHD
@@ -88,8 +88,6 @@ http://lb.kstream.org/aovivo/FHD_BAND_NEWS/video.m3u8?token=d40dbc9b081b7745b3b6
 http://lb.kstream.org/aovivo/HD_BAND_NEWS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Band News HD [Alter]" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png" group-title="Notícia",Band News HD [Alter]
 http://lb.kstream.org/aovivo/HD_BAND_NEWS_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Band SP" tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="TV Aberta",Band SP
-http://lb.kstream.org/aovivo/SD_BAND_SP/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Band Sports" tvg-logo="https://i.ibb.co/t8H0fk0/bandsports.png" group-title="Esporte",Band Sports
 http://lb.kstream.org/aovivo/SD_BAND_SPORTS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Band Sports FHD" tvg-logo="https://i.ibb.co/t8H0fk0/bandsports.png" group-title="Esporte",Band Sports FHD
