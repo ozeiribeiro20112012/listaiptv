@@ -763,26 +763,8 @@ http://acsb.sh:80/bF3y9W/68GSme/147202.ts
 http://acsb.sh:80/bF3y9W/68GSme/147205.ts
 #EXTINF:-1 tvg-logo="http://acsa.ws:80/images/bcfc063fbe635e30555214ecfd0e8a76.png",BBB Mosaico HD
 http://acsb.sh:80/bF3y9W/68GSme/147208.ts
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 01" tvg-logo="http://p6.vc/VLP" group-title="Canais | Jogos & Eventos",#EVENTOS 01
-http://pfsv.io:80/Silviopaz/pandora/33377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 02" tvg-logo="http://p6.vc/VLQ" group-title="Canais | Jogos & Eventos",#EVENTOS 02
-http://pfsv.io:80/Silviopaz/pandora/33399.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 03" tvg-logo="http://p6.vc/VLR" group-title="Canais | Jogos & Eventos",#EVENTOS 03
-http://pfsv.io:80/Silviopaz/pandora/33400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 04" tvg-logo="http://p6.vc/VLS" group-title="Canais | Jogos & Eventos",#EVENTOS 04
-http://pfsv.io:80/Silviopaz/pandora/33401.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 05" tvg-logo="http://p6.vc/VLT" group-title="Canais | Jogos & Eventos",#EVENTOS 05
-http://pfsv.io:80/Silviopaz/pandora/33402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Conquista 1 FHD" tvg-logo="" group-title="Canais | A Grande Conquista",A Grande Conquista 1 FHD
-http://pfsv.io:80/Silviopaz/pandora/140755.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Conquista 2 FHD" tvg-logo="" group-title="Canais | A Grande Conquista",A Grande Conquista 2 FHD
-http://pfsv.io:80/Silviopaz/pandora/140756.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Conquista 3 FHD" tvg-logo="" group-title="Canais | A Grande Conquista",A Grande Conquista 3 FHD
-http://pfsv.io:80/Silviopaz/pandora/140757.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Conquista 4 FHD" tvg-logo="" group-title="Canais | A Grande Conquista",A Grande Conquista 4 FHD
-http://pfsv.io:80/Silviopaz/pandora/140758.m3u8
+
+
 #EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E FHD" tvg-logo="http://p6.vc/APQ" group-title="Canais | Filmes e Séries",A&E FHD
 http://pfsv.io:80/Silviopaz/pandora/293.m3u8
 #EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E FHD [H265]" tvg-logo="http://p6.vc/WHI" group-title="Canais | Filmes e Séries",A&E FHD [H265]
