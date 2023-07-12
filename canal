@@ -164,7 +164,8 @@ https://server101.online/tc-premium/tracks-v1a1/mono.m3u8?remote=179.106.159.11&
 https://tvcanais.xyz/warnerchannel/tracks-a1/index.fmp4.m3u8?token=2b534a6de12e43e7d5c0acc91734337e005178b2-a7584922da74013ef86e3cb2835bc924-1689168166-1689167986
 #EXTINF:-1 type="stream" tvg-id="TELECINE-PIPOCA" tvg-logo="https://supertvaovivo.tv/wp-content/uploads/2021/08/TELECINE-PIPOCA.jpg" group-title=,TELECINE-PIPOCA
 https://server101.online/tc-pipoca/tracks-v1a1/mono.m3u8?remote=179.106.159.11&token=bd98f53590fe176b943bd47ee7ff01147134ab4c-5e068993c4fffd0564ec109b4f325095-1689172536-1689168936
-
+#EXTINF:-1 type="stream" tvg-id="paramount" tvg-logo="https://supertvaovivo.tv/wp-content/uploads/2021/08/PARAMOUNT-CHANNEL.jpg" group-title=,paramount
+https://server101.online/paramount/tracks-v1a1/mono.m3u8?remote=179.106.159.11&token=8f6163397dcff83326ae38e94e513e173fed3179-e1ef0705b8933289dfe477b98fe7606c-1689177128-1689173528
 
 
 
