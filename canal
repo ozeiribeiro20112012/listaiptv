@@ -5,7 +5,7 @@ http://lb.kstream.org/aovivo/FHD_GLOBO_MG/video.m3u8?token=d40dbc9b081b7745b3b61
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo",SBT
 http://lb.kstream.org/aovivo/HD_SBT/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Cancao nova" tvg-logo="https://i.ibb.co/4SW5kYN/tvcancaonova.png" group-title="TV Aberta",Cancao nova
-http://lb.kstream.org/aovivo/HD_CANCAO_NOVA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+http://lb.kstream.org/aovivo/FHD_CANCAO_NOVA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 tvg-logo="http://a5.vc/0hM",Rede Vida HD
 http://lb.kstream.org/aovivo/HD_REDE_VIDA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 tvg-id="JOVEM PAN NEWS" tvg-logo="https://media.gazetadopovo.com.br/2021/11/09172455/ALTERA%C3%87%C3%83O03_Logo_2.jpg" group-title="TV Aberta",JOVEM PAN NEWS
