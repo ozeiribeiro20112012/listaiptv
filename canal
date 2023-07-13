@@ -94,6 +94,16 @@ http://lb.kstream.org/aovivo/FHD_ESPN_2/video.m3u8?token=d40dbc9b081b7745b3b616f
 http://lb.kstream.org/aovivo/FHD_ESPN_BRASIL/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="ESPN Extra HD" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png" group-title="Esporte",ESPN Extra HD
 http://lb.kstream.org/aovivo/HD_ESPN_EXTRA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1,Telecine pipoca
+http://lb.kstream.org/aovivo/FHD_tc_pipoca/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1,Telecine touch
+http://lb.kstream.org/aovivo/FHD_tc_touch/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1,Telecine premium
+http://lb.kstream.org/aovivo/FHD_tc_premium/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1,Telecine cult
+http://lb.kstream.org/aovivo/FHD_tc_cult/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1,Telecine fun
+http://lb.kstream.org/aovivo/FHD_tc_fun/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="FX FHD" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png" group-title="Filme e Serie",FX FHD
 http://lb.kstream.org/aovivo/FHD_FX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Fish TV HD" tvg-logo="https://i.ibb.co/3mqnQx2/fishtv.png" group-title="Variedade",Fish TV HD
