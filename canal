@@ -112,6 +112,8 @@ http://lb.kstream.org/aovivo/FHD_tc_fun/video.m3u8?token=d40dbc9b081b7745b3b616f
 http://lb.kstream.org/aovivo/FHD_paramount/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,space
 http://lb.kstream.org/aovivo/FHD_space/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1,universal
+http://lb.kstream.org/aovivo/FHD_universal/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="FX FHD" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png" group-title="Filme e Serie",FX FHD
 http://lb.kstream.org/aovivo/FHD_FX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Fish TV HD" tvg-logo="https://i.ibb.co/3mqnQx2/fishtv.png" group-title="Variedade",Fish TV HD
