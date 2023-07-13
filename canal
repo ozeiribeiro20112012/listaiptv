@@ -170,13 +170,18 @@ http://lb.kstream.org/aovivo/FHD_MEGAPIX/video.m3u8?token=d40dbc9b081b7745b3b616
 http://lb.kstream.org/aovivo/FHD_NICKELODEON/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,TNT
 http://lb.kstream.org/aovivo/FHD_TNT/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-
+#EXTINF:-1,sportv 3
+http://lb.kstream.org/aovivo/FHD_sportv_3/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1,sportv 2
+http://lb.kstream.org/aovivo/FHD_sportv_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1,sportv
+http://lb.kstream.org/aovivo/FHD_sportv_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,TNT SPORTS
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1,TNT SPORTS 3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
 #EXTINF:-1,TNT SPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
