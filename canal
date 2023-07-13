@@ -148,6 +148,10 @@ http://lb.kstream.org/aovivo/FHD_HBO_FAMILLY/video.m3u8?token=d40dbc9b081b7745b3
 http://lb.kstream.org/aovivo/FHD_HBO_PLUS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="HBO Signature FHD" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="Filme e Serie",HBO Signature FHD
 http://lb.kstream.org/aovivo/FHD_HBO_SIGNATURE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1,HBO MAX
+http://lb.kstream.org/aovivo/HD_HBO_MAX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1,HBO MUNDI
+http://lb.kstream.org/aovivo/FHD_HBO_MUNDI/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="History FHD" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png" group-title="Documentario",History FHD
 http://lb.kstream.org/aovivo/FHD_HISTORY/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="History 2 FHD" tvg-logo="https://i.ibb.co/b6w6MWr/h2.png" group-title="Documentario",History 2 FHD
