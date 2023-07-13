@@ -156,20 +156,7 @@ http://lb.kstream.org/aovivo/FHD_MEGAPIX/video.m3u8?token=d40dbc9b081b7745b3b616
 http://lb.kstream.org/aovivo/FHD_NICKELODEON/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,TNT
 http://lb.kstream.org/aovivo/FHD_TNT/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="premiere" tvg-logo="https://supertvaovivo.tv/wp-content/uploads/2021/07/PREMIERE.jpg" group-title=,premiere clubes
-https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=179.106.159.11&token=6565bc682db5f816154478d9ad2778b34fa37905-06b1ece9d7e2483295a37c3f18d245a7-1689171227-1689167627
-#EXTINF:-1 type="stream" tvg-id="STAR" tvg-logo="https://supertvaovivo.tv/wp-content/uploads/2022/04/STAR-.jpg" group-title=,star-plus
-https://server101.online/star-plus/tracks-v1a1/mono.m3u8?remote=179.106.159.11&token=d65f8db647a5d9dfb77f8ac184fc133a7abf9c6d-ad7e88ee9a22554c1eda41bd44537e66-1689170611-1689167011
-#EXTINF:-1 type="stream" tvg-id="updatedValuehttps://supertvaovivo.tv/wp-content/uploads/2021/08/TELECINE-PREMIUN.jpg" group-title=,telecine premium
-https://server101.online/tc-premium/tracks-v1a1/mono.m3u8?remote=179.106.159.11&token=73978e0822607f1af8f7e8ef53a828f9b7581eb1-b32659215f558168658814baaac31973-1689171570-1689167970
-#EXTINF:-1 type="stream" tvg-id="warnerchannel" tvg-logo="https://supertvaovivo.tv/wp-content/uploads/2021/08/WARNER-CHANNEL.jpg" group-title=,warner channel
-https://tvcanais.xyz/warnerchannel/tracks-a1/index.fmp4.m3u8?token=2b534a6de12e43e7d5c0acc91734337e005178b2-a7584922da74013ef86e3cb2835bc924-1689168166-1689167986
-#EXTINF:-1 type="stream" tvg-id="TELECINE-PIPOCA" tvg-logo="https://supertvaovivo.tv/wp-content/uploads/2021/08/TELECINE-PIPOCA.jpg" group-title=,TELECINE-PIPOCA
-https://server101.online/tc-pipoca/tracks-v1a1/mono.m3u8?remote=179.106.159.11&token=bd98f53590fe176b943bd47ee7ff01147134ab4c-5e068993c4fffd0564ec109b4f325095-1689172536-1689168936
-#EXTINF:-1 type="stream" tvg-id="paramount" tvg-logo="https://supertvaovivo.tv/wp-content/uploads/2021/08/PARAMOUNT-CHANNEL.jpg" group-title=,paramount
-https://server101.online/paramount/tracks-v1a1/mono.m3u8?remote=179.106.159.11&token=8f6163397dcff83326ae38e94e513e173fed3179-e1ef0705b8933289dfe477b98fe7606c-1689177128-1689173528
-#EXTINF:-1 type="stream" tvg-id="space" tvg-logo="https://supertvaovivo.tv/wp-content/uploads/2021/08/SPACE.jpg" group-title=,space
-https://server101.online/space/tracks-v1a1/mono.m3u8?remote=179.106.159.11&token=00494b801a57bd243b4368f1242572be4b848c87-80a5bcbac83c68ea144d9c96564e0c4a-1689177761-1689174161
+
 
 
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun",AMC HD
