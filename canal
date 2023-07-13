@@ -138,6 +138,8 @@ http://lb.kstream.org/aovivo/FHD_GLOBONEWS/video.m3u8?token=d40dbc9b081b7745b3b6
 http://lb.kstream.org/aovivo/HD_GLOOB/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Gloobinho FHD" tvg-logo="https://i.ibb.co/sFRw5Rf/gloobinho.png" group-title="Infantil",Gloobinho FHD
 http://lb.kstream.org/aovivo/FHD_GLOOBINHO/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1,NICKELODEON
+http://lb.kstream.org/aovivo/FHD_NICKELODEON/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="HBO FHD" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="Filme e Serie",HBO FHD
 http://lb.kstream.org/aovivo/FHD_HBO/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="HBO 2 FHD" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png" group-title="Filme e Serie",HBO 2 FHD
