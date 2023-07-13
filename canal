@@ -80,6 +80,8 @@ http://lb.kstream.org/aovivo/FHD_DISCOVERY_TURBO/video.m3u8?token=d40dbc9b081b77
 http://lb.kstream.org/aovivo/FHD_DISCOVERY_WORLD/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Disney Channel FHD" tvg-logo="https://i.ibb.co/2NTFC8F/disneyhd.png" group-title="Infantil",Disney Channel FHD
 http://lb.kstream.org/aovivo/FHD_DISNEY/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1,nick jr
+http://lb.kstream.org/aovivo/FHD_nick_jr/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Disney JR FHD" tvg-logo="https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title="Infantil",Disney JR FHD
 http://lb.kstream.org/aovivo/FHD_DISNEY_JUNIOR/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Disney XD HD" tvg-logo="https://i.ibb.co/KqXhhC2/disneyxd.png" group-title="Infantil",Disney XD HD
