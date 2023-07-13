@@ -98,6 +98,8 @@ http://lb.kstream.org/aovivo/FHD_ESPN_BRASIL/video.m3u8?token=d40dbc9b081b7745b3
 http://lb.kstream.org/aovivo/HD_ESPN_EXTRA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,Telecine pipoca
 http://lb.kstream.org/aovivo/FHD_tc_pipoca/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1,telecine action
+http://lb.kstream.org/aovivo/FHD_TC_ACTION/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,Telecine touch
 http://lb.kstream.org/aovivo/FHD_tc_touch/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,Telecine premium
