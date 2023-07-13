@@ -186,6 +186,8 @@ http://lb.kstream.org/aovivo/FHD_NICKELODEON/video.m3u8?token=d40dbc9b081b7745b3
 http://lb.kstream.org/aovivo/FHD_TNT/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,tnt series
 http://lb.kstream.org/aovivo/FHD_tnt_series/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1,syfy
+http://lb.kstream.org/aovivo/FHD_syfy/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,sportv 3
 http://lb.kstream.org/aovivo/FHD_sportv_3/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,sportv 2
