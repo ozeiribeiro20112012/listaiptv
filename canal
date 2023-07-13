@@ -174,6 +174,19 @@ http://lb.kstream.org/aovivo/FHD_TNT/video.m3u8?token=d40dbc9b081b7745b3b616f3ed
 #EXTINF:-1,TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1,TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1,TNT SPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1,TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1,TNT SPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun",AMC HD
 http://acsb.sh:80/bF3y9W/68GSme/71770.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8",Animal Planet HD
