@@ -171,7 +171,8 @@ http://lb.kstream.org/aovivo/FHD_NICKELODEON/video.m3u8?token=d40dbc9b081b7745b3
 #EXTINF:-1,TNT
 http://lb.kstream.org/aovivo/FHD_TNT/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
-
+#EXTINF:-1,TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun",AMC HD
 http://acsb.sh:80/bF3y9W/68GSme/71770.ts
