@@ -16,8 +16,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w6
 http://lb.kstream.org/aovivo/HD_TV_APARECIDA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="TV-PAI-ETERNO" tvg-logo="https://supertvaovivo.tv/wp-content/uploads/2021/07/TV-PAI-ETERNO-2.jpg" group-title=,TV PAI ETERNO
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w609427385.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/QZr",TV Gazeta SP HD
-http://acsb.sh:80/bF3y9W/68GSme/72406.ts
+#EXTINF:-1 tvg-logo="https://supertvaovivo.tv/wp-content/uploads/2021/06/TV-GAZETA.jpg",TV Gazeta SP HD
+https://stmv1.samcast.com.br/wagner7919/wagner7919/chunklist_w286398353.m3u8
 #EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RJ HD
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 type="stream" tvg-id="Band SP" tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="TV Aberta",Band SP
