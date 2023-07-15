@@ -156,9 +156,9 @@ http://lb.kstream.org/aovivo/FHD_HBO/video.m3u8?token=d40dbc9b081b7745b3b616f3ed
 http://lb.kstream.org/aovivo/FHD_HBO_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="HBO Family" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="Filme e Serie",HBO Family
 http://lb.kstream.org/aovivo/FHD_HBO_FAMILLY/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="HBO Plus" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="Filme e Serie",HBO Plus FHD
+#EXTINF:-1 type="stream" tvg-id="HBO Plus" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="Filme e Serie",HBO Plus
 http://lb.kstream.org/aovivo/FHD_HBO_PLUS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="HBO Signature" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="Filme e Serie",HBO Signature FHD
+#EXTINF:-1 type="stream" tvg-id="HBO Signature" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="Filme e Serie",HBO Signature
 http://lb.kstream.org/aovivo/FHD_HBO_SIGNATURE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,HBO MAX
 http://lb.kstream.org/aovivo/HD_HBO_MAX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
