@@ -22,7 +22,7 @@ https://stmv1.samcast.com.br/wagner7919/wagner7919/chunklist_w286398353.m3u8
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 type="stream" tvg-id="Band SP" tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="TV Aberta",Band SP
 http://lb.kstream.org/aovivo/SD_BAND_SP/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1,TOP MIX TV
+#EXTINF:-1,type="stream" tvg-id="TOP MIX" tvg-logo="https://supertvaovivo.tv/wp-content/uploads/2022/12/TOP-MIX-TV-FILMES.jpg"group-title="Filme e Serie",TOP MIX TV
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w1333338270.m3u8
 #EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E FHD
 http://lb.kstream.org/aovivo/FHD_AE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
