@@ -211,7 +211,13 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1,TNT SPORTS 3
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u
+
+#EXTINF:-1,Premiere
+https://tvcanais.xyz/premiereclubes/index.fmp4.m3u8?token=efbb6452c06cd8f814f71a4ddb4e14edd0017cbc-9226cdb11c685565632f41075105f7e4-1689461646-1689461466
+
+#EXTINF:-1,Premiere
+https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=167.250.151.13&token=47f0923fdd9bd41817d09bbd6e33e655ee2658fe-a51ddfea940b7b8f998d154780b66196-1689465534-1689461934
 
 
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun",AMC HD
