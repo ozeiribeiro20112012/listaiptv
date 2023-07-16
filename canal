@@ -94,6 +94,10 @@ http://lb.kstream.org/aovivo/HD_E/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9
 http://lb.kstream.org/aovivo/hD_espn/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="ESPN 2" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 2
 http://lb.kstream.org/aovivo/HD_espn_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1 type="stream" tvg-id="ESPN 3" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 3
+http://lb.kstream.org/aovivo/HD_espn_3/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1 type="stream" tvg-id="ESPN 4" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 4
+http://lb.kstream.org/aovivo/HD_espn_4/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil
 http://lb.kstream.org/aovivo/FHD_ESPN_BRASIL/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="ESPN Extra" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png" group-title="Esporte",ESPN Extra
