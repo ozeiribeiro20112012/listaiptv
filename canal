@@ -213,6 +213,5 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1,TNT SPORTS 3
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u
 
-#EXTINF:-1,Premiere
-https://tvcanais.xyz/premiereclubes/index.fmp4.m3u8?token=efbb6452c06cd8f814f71a4ddb4e14edd0017cbc-9226cdb11c685565632f41075105f7e4-1689461646-1689461466
-
+#EXTINF:-1,Premiere	
+https://tvcanais.xyz/premiereclubes/tracks-a1/index.fmp4.m3u8?token=997e3beed9d02e5e455c3c7a721d94478e41f802-5bc8e97119b45cb7bb698311c49b4877-1689542237-1689542057
