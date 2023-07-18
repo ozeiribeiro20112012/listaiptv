@@ -220,5 +220,20 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u
 #EXTINF:-1,Premiere
 https://tvcanais.xyz/premiereclubes/index.fmp4.m3u8
 
-#EXTINF:-1,Premiere	
-https://tvcanais.xyz/premiereclubes/tracks-v1/index.m3u8
+#EXTINF:-1,HBO
+https://tvcanais.xyz/hbo/index.fmp4.m3u8
+
+#EXTINF:-1,TV Aparecida	
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
+#EXTINF:-1,Telecine Pipoca
+https://tvcanais.xyz/telecine_pipoca/index.fmp4.m3u8
+
+#EXTINF:-1,Telecine Premium
+https://tvcanais.xyz/telecine_premium/index.fmp4.m3u8
+
+#EXTINF:-1,Telecine Touch
+https://tvcanais.xyz/telecine_touch/index.fmp4.m3u8
+
+#EXTINF:-1,Cinemax
+https://tvcanais.xyz/cinemax/index.fmp4.m3u8
