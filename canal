@@ -262,3 +262,12 @@ https://tvcanais.xyz/animalplanet/index.fmp4.m3u8
 #EXTINF:-1,Space
 https://tvcanais.xyz/space/index.fmp4.m3u8
 
+#EXTINF:-1,Histry
+https://br.embedflix.net/p2p/history/chunks.m3u8
+
+#EXTINF:-1,history 2
+https://tvcanais.xyz/history2/index.fmp4.m3u8
+
+#EXTINF:-1,Discovery Channel
+https://tvcanais.xyz/discoverychannel/index.fmp4.m3u8
+
