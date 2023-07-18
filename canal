@@ -223,6 +223,9 @@ https://br.embedflix.net/p2p/globorj/chunks.m3u8
 #EXTINF:-1,SBT
 https://tvcanais.xyz/sbtsp/index.fmp4.m3u8
 
+#EXTINF:-1,Record
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w579992752.m3u8
+
 #EXTINF:-1,Premiere
 https://tvcanais.xyz/premiereclubes/index.fmp4.m3u8
 
