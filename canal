@@ -240,3 +240,6 @@ https://tvcanais.xyz/cinemax/index.fmp4.m3u8
 
 #EXTINF:-1,Animal Planet
 https://tvcanais.xyz/animalplanet/index.fmp4.m3u8
+
+#EXTINF:-1,Space
+https://tvcanais.xyz/space/index.fmp4.m3u8
