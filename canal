@@ -232,6 +232,12 @@ https://tvcanais.xyz/premiereclubes/index.fmp4.m3u8
 #EXTINF:-1,HBO
 https://tvcanais.xyz/hbo/index.fmp4.m3u8
 
+#EXTINF:-1,HBO Family
+https://tvcanais.xyz/hbo_family/index.fmp4.m3u8
+
+#EXTINF:-1,HBO Plus
+https://br.embedflix.net/p2p/hboplus/chunks.m3u8
+
 #EXTINF:-1,TV Aparecida	
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
@@ -252,3 +258,4 @@ https://tvcanais.xyz/animalplanet/index.fmp4.m3u8
 
 #EXTINF:-1,Space
 https://tvcanais.xyz/space/index.fmp4.m3u8
+
