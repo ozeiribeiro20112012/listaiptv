@@ -220,6 +220,9 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u
 #EXTINF:-1,Globo 
 https://br.embedflix.net/p2p/globorj/chunks.m3u8
 
+#EXTINF:-1,SBT
+https://tvcanais.xyz/sbtsp/index.fmp4.m3u8
+
 #EXTINF:-1,Premiere
 https://tvcanais.xyz/premiereclubes/index.fmp4.m3u8
 
