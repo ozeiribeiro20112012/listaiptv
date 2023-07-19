@@ -229,6 +229,9 @@ https://video03.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w5
 #EXTINF:-1,Premiere
 https://tvcanais.xyz/premiereclubes/index.fmp4.m3u8
 
+#EXTINF:-1,band sports
+https://tvcanais.xyz/bandsports/index.fmp4.m3u8
+
 #EXTINF:-1,HBO
 https://tvcanais.xyz/hbo/index.fmp4.m3u8
 
