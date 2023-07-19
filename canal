@@ -274,6 +274,9 @@ https://tvcanais.xyz/history2/index.fmp4.m3u8
 #EXTINF:-1,Discovery Channel
 https://tvcanais.xyz/discoverychannel/index.fmp4.m3u8
 
+#EXTINF:-1,discovery turbo
+https://tvcanais.xyz/discovery_turbo/index.fmp4.m3u8
+
 #EXTINF:-1,discovery kids
 https://tvcanais.xyz/discovery_kids/index.fmp4.m3u8
 
