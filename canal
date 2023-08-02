@@ -209,6 +209,11 @@ http://lb.kstream.org/aovivo/FHD_OFF/video.m3u8?token=d40dbc9b081b7745b3b616f3ed
 #EXTINF:-1,AEW
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1,Jogos ao vivo
+https://ddy1.cdndac.lol/ddy1/premium81/index.fmp4.m3u8
+
+
+
 #EXTINF:-1,TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
@@ -239,3 +244,5 @@ https://ddy1.cdndac.lol/ddy1/premium82/index.fmp4.m3u8
 #EXTINF:-1,Combate
 https://ddy1.cdndac.lol/ddy1/premium89/index.fmp4.m3u8
 
+#EXTINF:-1,TNT
+https://ddy1.cdndac.lol/ddy1/premium87/index.fmp4.m3u8
