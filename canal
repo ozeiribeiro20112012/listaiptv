@@ -138,10 +138,7 @@ http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=d40dbc9b081b7745b
 http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Fox Premium 2" tvg-logo="https://i.ibb.co/ygC4V8r/foxpremium2b.png" group-title="Filme e Serie",Fox Premium 2
 http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Fox Sports FHD" tvg-logo="https://i.ibb.co/4tZV54w/foxsportshd.png" group-title="Esporte",Fox Sports
-http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Fox Sports 2 FHD" tvg-logo="https://i.ibb.co/QXczkxV/foxsports2hd.png" group-title="Esporte",Fox Sports 2
-http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
 #EXTINF:-1 type="stream" tvg-id="Futura" tvg-logo="https://i.ibb.co/K6zprYB/futura.png" group-title="Documentario",Futura
 http://lb.kstream.org/aovivo/HD_FUTURA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="GNT" tvg-logo="https://i.ibb.co/DDW7Xcz/gnt.png" group-title="Variedade",GNT
@@ -204,15 +201,15 @@ http://lb.kstream.org/aovivo/FHD_sportv_2/video.m3u8?token=d40dbc9b081b7745b3b61
 http://lb.kstream.org/aovivo/FHD_sportv_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,OFF
 http://lb.kstream.org/aovivo/FHD_OFF/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-
-
 #EXTINF:-1,AEW
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 type="stream" tvg-id="Fox Sports FHD" tvg-logo="https://i.ibb.co/4tZV54w/foxsportshd.png" group-title="Esporte",Fox Sports
+http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+#EXTINF:-1 type="stream" tvg-id="Fox Sports 2 FHD" tvg-logo="https://i.ibb.co/QXczkxV/foxsports2hd.png" group-title="Esporte",Fox Sports 2
+http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:-1,Jogos ao vivo
 https://ddy1.cdndac.lol/ddy1/premium81/index.fmp4.m3u8
-
-
 
 #EXTINF:-1,TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
