@@ -253,7 +253,7 @@ http://lb.kstream.org/aovivo/FHD_sportv_2/video.m3u8?token=d40dbc9b081b7745b3b61
 http://lb.kstream.org/aovivo/FHD_sportv_3/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",ESPN
-http://lb.kstream.org/aovivo/hD_espn/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+http://lb.kstream.org/aovivo/HD_espn/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:-1 type="stream" tvg-id="ESPN 2" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 2
 http://lb.kstream.org/aovivo/HD_espn_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
