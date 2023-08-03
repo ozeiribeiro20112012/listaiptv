@@ -90,14 +90,6 @@ http://lb.kstream.org/aovivo/FHD_DISNEY_JUNIOR/video.m3u8?token=d40dbc9b081b7745
 http://lb.kstream.org/aovivo/HD_DISNEY_XD/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="E!" tvg-logo="https://i.ibb.co/qBfvJ1m/eentertainmentb.png" group-title="Variedade",E!
 http://lb.kstream.org/aovivo/HD_E/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",ESPN
-http://lb.kstream.org/aovivo/hD_espn/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="ESPN 2" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 2
-http://lb.kstream.org/aovivo/HD_espn_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="ESPN 3" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 3
-http://lb.kstream.org/aovivo/HD_espn_3/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="ESPN 4" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 4
-http://lb.kstream.org/aovivo/HD_espn_4/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil
 http://lb.kstream.org/aovivo/FHD_ESPN_BRASIL/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="ESPN Extra" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png" group-title="Esporte",ESPN Extra
@@ -138,7 +130,6 @@ http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=d40dbc9b081b7745b
 http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Fox Premium 2" tvg-logo="https://i.ibb.co/ygC4V8r/foxpremium2b.png" group-title="Filme e Serie",Fox Premium 2
 http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-
 #EXTINF:-1 type="stream" tvg-id="Futura" tvg-logo="https://i.ibb.co/K6zprYB/futura.png" group-title="Documentario",Futura
 http://lb.kstream.org/aovivo/HD_FUTURA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="GNT" tvg-logo="https://i.ibb.co/DDW7Xcz/gnt.png" group-title="Variedade",GNT
@@ -193,12 +184,6 @@ http://lb.kstream.org/aovivo/FHD_TNT/video.m3u8?token=d40dbc9b081b7745b3b616f3ed
 http://lb.kstream.org/aovivo/FHD_tnt_series/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,syfy
 http://lb.kstream.org/aovivo/FHD_syfy/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1,sportv 3
-http://lb.kstream.org/aovivo/FHD_sportv_3/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1,sportv 2
-http://lb.kstream.org/aovivo/FHD_sportv_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1,sportv
-http://lb.kstream.org/aovivo/FHD_sportv_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,OFF
 http://lb.kstream.org/aovivo/FHD_OFF/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,AEW
@@ -207,6 +192,78 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Fox Sports 2 FHD" tvg-logo="https://i.ibb.co/QXczkxV/foxsports2hd.png" group-title="Esporte",Fox Sports 2
 http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:-1,SBT
+https://tvcanais.xyz/sbtsp/index.fmp4.m3u8
+
+#EXTINF:-1,band sports
+https://tvcanais.xyz/bandsports/index.fmp4.m3u8
+
+#EXTINF:-1,HBO
+https://tvcanais.xyz/hbo/index.fmp4.m3u8
+
+#EXTINF:-1,HBO Family
+https://tvcanais.xyz/hbo_family/index.fmp4.m3u8
+
+#EXTINF:-1,TV Aparecida	
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
+#EXTINF:-1,Telecine Pipoca
+https://tvcanais.xyz/telecine_pipoca/index.fmp4.m3u8
+
+#EXTINF:-1,Telecine Premium
+https://tvcanais.xyz/telecine_premium/index.fmp4.m3u8
+
+#EXTINF:-1,Telecine Touch
+https://tvcanais.xyz/telecine_touch/index.fmp4.m3u8
+
+#EXTINF:-1,Cinemax
+https://tvcanais.xyz/cinemax/index.fmp4.m3u8
+
+#EXTINF:-1,Animal Planet
+https://tvcanais.xyz/animalplanet/index.fmp4.m3u8
+
+#EXTINF:-1,Space
+https://tvcanais.xyz/space/index.fmp4.m3u8
+
+#EXTINF:-1,history 2
+https://tvcanais.xyz/history2/index.fmp4.m3u8
+
+#EXTINF:-1,Discovery Channel
+https://tvcanais.xyz/discoverychannel/index.fmp4.m3u8
+
+#EXTINF:-1,discovery turbo
+https://tvcanais.xyz/discovery_turbo/index.fmp4.m3u8
+
+#EXTINF:-1,discovery kids
+https://tvcanais.xyz/discovery_kids/index.fmp4.m3u8
+
+#EXTINF:-1,Premiere
+https://ddy1.cdndac.lol/ddy1/premium88/index.fmp4.m3u8
+
+#EXTINF:-1,Premiere
+https://ddy1.cdndac.lol/ddy1/premium88/index.fmp4.m3u8
+
+#EXTINF:-1,sportv
+http://lb.kstream.org/aovivo/FHD_sportv_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:-1,sportv 2
+http://lb.kstream.org/aovivo/FHD_sportv_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:-1,sportv 3
+http://lb.kstream.org/aovivo/FHD_sportv_3/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",ESPN
+http://lb.kstream.org/aovivo/hD_espn/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:-1 type="stream" tvg-id="ESPN 2" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 2
+http://lb.kstream.org/aovivo/HD_espn_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:-1 type="stream" tvg-id="ESPN 3" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 3
+http://lb.kstream.org/aovivo/HD_espn_3/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:-1 type="stream" tvg-id="ESPN 4" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 4
+http://lb.kstream.org/aovivo/HD_espn_4/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:-1,Jogos ao vivo
 https://ddy1.cdndac.lol/ddy1/premium81/index.fmp4.m3u8
@@ -218,25 +275,10 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1,TNT SPORTS 3
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u
-
-#EXTINF:-1,Premiere
-https://ddy1.cdndac.lol/ddy1/premium88/index.fmp4.m3u8
-
-#EXTINF:-1,sportv
-https://ddy1.cdndac.lol/ddy1/premium78/index.fmp4.m3u8
-
-#EXTINF:-1,sportv 2
-https://ddy1.cdndac.lol/ddy1/premium79/index.fmp4.m3u8
-
-#EXTINF:-1,sportv 3
-https://ddy1.cdndac.lol/ddy1/premium80/index.fmp4.m3u8
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-1,Star +
 https://ddy1.cdndac.lol/ddy1/premium81/index.fmp4.m3u8
-
-#EXTINF:-1,Espn 2
-https://ddy1.cdndac.lol/ddy1/premium82/index.fmp4.m3u8
 
 #EXTINF:-1,Combate
 https://ddy1.cdndac.lol/ddy1/premium89/index.fmp4.m3u8
