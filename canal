@@ -64,8 +64,6 @@ http://lb.kstream.org/aovivo/FHD_COMEDY_CENTRAL/video.m3u8?token=d40dbc9b081b774
 http://lb.kstream.org/aovivo/SD_TV_CULTURA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Curta" tvg-logo="https://i.ibb.co/YRKtq0s/curta.png" group-title="Variedade",Curta
 http://lb.kstream.org/aovivo/HD_CURTA_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="DAZN 1" tvg-logo="https://i.ibb.co/gWQzZk8/dazn.jpg" group-title="Esporte",DAZN 1
-http://lb.kstream.org/aovivo/HD_DAZN_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel
 http://lb.kstream.org/aovivo/FHD_DISCOVERY/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="Discovery Civilization" tvg-logo="https://i.ibb.co/mcBYLpp/discoverycivilizationb.png" group-title="Documentario",Discovery Civilization
@@ -92,10 +90,6 @@ http://lb.kstream.org/aovivo/FHD_DISNEY_JUNIOR/video.m3u8?token=d40dbc9b081b7745
 http://lb.kstream.org/aovivo/HD_DISNEY_XD/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1 type="stream" tvg-id="E!" tvg-logo="https://i.ibb.co/qBfvJ1m/eentertainmentb.png" group-title="Variedade",E!
 http://lb.kstream.org/aovivo/HD_E/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil
-http://lb.kstream.org/aovivo/FHD_ESPN_BRASIL/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="ESPN Extra" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png" group-title="Esporte",ESPN Extra
-http://lb.kstream.org/aovivo/HD_ESPN_EXTRA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,Telecine pipoca
 http://lb.kstream.org/aovivo/FHD_tc_pipoca/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,telecine action
@@ -190,10 +184,6 @@ http://lb.kstream.org/aovivo/FHD_syfy/video.m3u8?token=d40dbc9b081b7745b3b616f3e
 http://lb.kstream.org/aovivo/FHD_OFF/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 #EXTINF:-1,AEW
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 type="stream" tvg-id="Fox Sports FHD" tvg-logo="https://i.ibb.co/4tZV54w/foxsportshd.png" group-title="Esporte",Fox Sports
-http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
-#EXTINF:-1 type="stream" tvg-id="Fox Sports 2 FHD" tvg-logo="https://i.ibb.co/QXczkxV/foxsports2hd.png" group-title="Esporte",Fox Sports 2
-http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:-1,SBT
 https://tvcanais.xyz/sbtsp/index.fmp4.m3u8
@@ -261,17 +251,32 @@ https://ddy1.cdndac.lol/ddy1/premium81/index.fmp4.m3u8
 #EXTINF:-1,ESPN 2
 https://ddy1.cdndac.lol/ddy1/premium82/index.fmp4.m3u8
 
+#EXTINF:-1 type="stream" tvg-id="Fox Sports FHD" tvg-logo="https://i.ibb.co/4tZV54w/foxsportshd.png" group-title="Esporte",Fox Sports
+http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:-1 type="stream" tvg-id="Fox Sports 2 FHD" tvg-logo="https://i.ibb.co/QXczkxV/foxsports2hd.png" group-title="Esporte",Fox Sports 2
+http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:-1 type="stream" tvg-id="DAZN 1" tvg-logo="https://i.ibb.co/gWQzZk8/dazn.jpg" group-title="Esporte",DAZN 1
+http://lb.kstream.org/aovivo/HD_DAZN_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil
+http://lb.kstream.org/aovivo/FHD_ESPN_BRASIL/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:-1 type="stream" tvg-id="ESPN Extra" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png" group-title="Esporte",ESPN Extra
+http://lb.kstream.org/aovivo/HD_ESPN_EXTRA/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
 #EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",ESPN
-http://lb.kstream.org/aovivo/HD_espn/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+http://lb.kstream.org/aovivo/SD_espn/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:-1 type="stream" tvg-id="ESPN 2" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 2
-http://lb.kstream.org/aovivo/HD_espn_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+http://lb.kstream.org/aovivo/SD_espn_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:-1 type="stream" tvg-id="ESPN 3" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 3
-http://lb.kstream.org/aovivo/HD_espn_3/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+http://lb.kstream.org/aovivo/SD_espn_3/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:-1 type="stream" tvg-id="ESPN 4" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 4
-http://lb.kstream.org/aovivo/HD_espn_4/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+http://lb.kstream.org/aovivo/SD_espn_4/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:-1,jogos ao vivo
 https://ddy1.cdndac.lol/ddy1/premium81/index.fmp4.m3u8
