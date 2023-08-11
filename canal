@@ -236,11 +236,35 @@ https://tvcanais.xyz/discovery_turbo/index.fmp4.m3u8
 #EXTINF:-1,discovery kids
 https://tvcanais.xyz/discovery_kids/index.fmp4.m3u8
 
+#EXTINF:-1,Premiere	
+https://tvcanais.xyz/premiereclubes/index.fmp4.m3u8
+
 #EXTINF:-1,Premiere
 https://ddy1.cdndac.lol/ddy1/premium88/index.fmp4.m3u8
 
 #EXTINF:-1,Premiere Clubes
 https://webudit.cdndac.lol/ddy1/premium88/index.fmp4.m3u8
+
+#EXTINF:-1,sportv	
+https://tvcanais.xyz/sportv1/index.fmp4.m3u8
+
+#EXTINF:-1,sportv 2	
+https://tvcanais.xyz/sportv2/index.fmp4.m3u8
+
+#EXTINF:-1,sportv 3	
+https://tvcanais.xyz/sportv3/index.fmp4.m3u8
+
+#EXTINF:-1,ESPN 
+https://tvcanais.xyz/espn1/index.fmp4.m3u8
+
+#EXTINF:-1,ESPN 2	
+https://tvcanais.xyz/espn2/index.fmp4.m3u8
+
+#EXTINF:-1,ESPN 3	
+https://tvcanais.xyz/espn3/index.fmp4.m3u8
+
+#EXTINF:-1,ESPN 4	
+https://tvcanais.xyz/espn4/index.fmp4.m3u8
 
 #EXTINF:-1,sportv
 http://lb.kstream.org/aovivo/FHD_sportv_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
