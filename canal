@@ -258,7 +258,7 @@ https://ddy1.cdndac.lol/ddy1/premium81/index.fmp4.m3u8
 https://ddy1.cdndac.lol/ddy1/premium82/index.fmp4.m3u8
 
 #EXTINF:-1 type="stream" tvg-id="Fox Sports FHD" tvg-logo="https://i.ibb.co/4tZV54w/foxsportshd.png" group-title="Esporte",Fox Sports
-http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:-1 type="stream" tvg-id="Fox Sports 2 FHD" tvg-logo="https://i.ibb.co/QXczkxV/foxsports2hd.png" group-title="Esporte",Fox Sports 2
 http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
@@ -305,8 +305,8 @@ https://ddy1.cdndac.lol/ddy1/premium89/index.fmp4.m3u8
 #EXTINF:-1,TNT
 https://ddy1.cdndac.lol/ddy1/premium87/index.fmp4.m3u8
 
-#EXTINF:-1,ESPN
-https://tvcanais.xyz/espn_2/index.fmp4.m3u8
+#EXTINF:-1,fox
+https://tvcanais.xyz/fox_sports/index.fmp4.m3u8
 
 #EXTINF:-1,HBO
 https://supertvaovivo.tv/star/index.fmp4.m3u8
