@@ -396,6 +396,18 @@ https://ddy1.cdndac.lol/ddy1/premium81/index.fmp4.m3u8
 #EXTINF:-1,ESPN 2
 https://ddy1.cdndac.lol/ddy1/premium82/index.fmp4.m3u8
 
+#EXTINF:-1,STAR	
+https://tvcanais.xyz/star1/index.fmp4.m3u8?
+
+#EXTINF:-1,STAR 2	
+https://tvcanais.xyz/star2/index.fmp4.m3u8?
+
+#EXTINF:-1,STAR 3	
+https://tvcanais.xyz/star3/index.fmp4.m3u8?
+
+#EXTINF:-1,STAR 4	
+https://tvcanais.xyz/star4/index.fmp4.m3u8?
+
 #EXTINF:-1 type="stream" tvg-id="Fox Sports FHD" tvg-logo="https://i.ibb.co/4tZV54w/foxsportshd.png" group-title="Esporte",Fox Sports
 http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
