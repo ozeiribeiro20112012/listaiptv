@@ -15,6 +15,18 @@ http://assista.live:80/5528999773199/94596866/211357
 http://assista.live:80/5528999773199/94596866/211358
 #EXTINF:-1,TV CULTURA
 http://assista.live:80/5528999773199/94596866/211361
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/d3a6f364a8fb0167e4f0ef29388452e3.png",CANÇÃO NOVA HD
+http://assista.live:80/5528999773199/94596866/123962
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/19d5fb96c19c6b1f63b1ea3201592d3d.png",EVANGELIZAR
+http://assista.live:80/5528999773199/94596866/123963
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",Igreja Mundial FHD
+http://assista.live:80/5528999773199/94596866/123964
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",Igreja Universal HD
+http://assista.live:80/5528999773199/94596866/123965
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/9258c67e461b3adcb31c795c60bf3681.png",Novo Tempo
+http://assista.live:80/5528999773199/94596866/123966
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/37288e62601868f21fc4f7a49f23e4e5.png",ANIMAL PLANET FHD
+http://assista.live:80/5528999773199/94596866/124856
 #EXTINF:-1,Animal Planet
 http://assista.live:80/5528999773199/94596866/124741
 #EXTINF:-1 group-title="CANAIS | H256" tvg-logo="http://assisista.live:80/images/96e3719098b610412d5c596a98f43d05.png",A&E (H265)
@@ -373,16 +385,6 @@ http://assista.live:80/5528999773199/94596866/123349
 http://assista.live:80/5528999773199/94596866/123350
 #EXTINF:-1 group-title="CANAIS | FILMES E SÉRIES" tvg-logo="http://assisista.live:80/images/b3a2f01892369e5b23cf81026937c078.png",WARNER CHANNEL SD
 http://assista.live:80/5528999773199/94596866/123351
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/d3a6f364a8fb0167e4f0ef29388452e3.png",CANÇÃO NOVA HD
-http://assista.live:80/5528999773199/94596866/123962
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/19d5fb96c19c6b1f63b1ea3201592d3d.png",EVANGELIZAR
-http://assista.live:80/5528999773199/94596866/123963
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",Igreja Mundial FHD
-http://assista.live:80/5528999773199/94596866/123964
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",Igreja Universal HD
-http://assista.live:80/5528999773199/94596866/123965
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/9258c67e461b3adcb31c795c60bf3681.png",Novo Tempo
-http://assista.live:80/5528999773199/94596866/123966
 #EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",Rede Família FHD
 http://assista.live:80/5528999773199/94596866/123968
 #EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://cdn.assistatv.me:80/images/faa0102c11afed3ebde0d80dba20a6cc.png",Rede Genesis FHD
@@ -511,8 +513,6 @@ http://assista.live:80/5528999773199/94596866/124771
 http://assista.live:80/5528999773199/94596866/124772
 #EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://assisista.live:80/images/d8451360c9eb181a3fbd8e1e4e3e6ea2.png",Viva 4K
 http://assista.live:80/5528999773199/94596866/124773
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/37288e62601868f21fc4f7a49f23e4e5.png",ANIMAL PLANET FHD
-http://assista.live:80/5528999773199/94596866/124856
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/37288e62601868f21fc4f7a49f23e4e5.png",ANIMAL PLANET HD
 http://assista.live:80/5528999773199/94596866/124858
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://assisista.live:80/images/37288e62601868f21fc4f7a49f23e4e5.png",ANIMAL PLANET SD
