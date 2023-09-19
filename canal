@@ -1,33 +1,27 @@
 #EXTM3U
-#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="http://assisista.live:80/images/a547c1d72fdd047536a1ac84ed930a9b.png",Globo VANGUARDA TAUBATÉ FHD
+#EXTINF:-1,Globo 
 http://assista.live:80/5528999773199/94596866/263355
-#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="http://assisista.live:80/images/eadc1bacb17aea28d29fefc19868b5e1.png",SBT RJ FHD
+#EXTINF:-1,SBT
 http://assista.live:80/5528999773199/94596866/263395
-#EXTINF:-1 group-title="CANAIS | RECORD" tvg-logo="http://assisista.live:80/images/de17f0f24b49f8364187891f8550ffbb.png",RECORD CAMPINAS
+#EXTINF:-1,RECORD
 http://assista.live:80/5528999773199/94596866/263364
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/86d14c286a88b017ee164ce351a31435.png",FUTURA
+#EXTINF:-1,FUTURA
 http://assista.live:80/5528999773199/94596866/211354
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/86d14c286a88b017ee164ce351a31435.png",FUTURA HD
-http://assista.live:80/5528999773199/94596866/211355
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/d168c00361908c896991dc5b8a49d666.png",Rede Brasil TV
+#EXTINF:-1,Rede Brasil TV
 http://assista.live:80/5528999773199/94596866/211356
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/7a4c7463756c54838f29a4d6c1edcc69.png",REDE MINAS HD
+#EXTINF:-1,REDE MINAS
 http://assista.live:80/5528999773199/94596866/211357
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/327e34c68dd7271bb8f9b0cb25ae526e.png",REDE TV FHD
+#EXTINF:-1,REDE TV
 http://assista.live:80/5528999773199/94596866/211358
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/327e34c68dd7271bb8f9b0cb25ae526e.png",REDE TV HD
-http://assista.live:80/5528999773199/94596866/211359
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/327e34c68dd7271bb8f9b0cb25ae526e.png",RedeTV SD
-http://assista.live:80/5528999773199/94596866/211360
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://assisista.live:80/images/a2799c8089b2a7523bcc8656042c6286.png",TV CULTURA HD
+#EXTINF:-1,TV CULTURA
 http://assista.live:80/5528999773199/94596866/211361
-#EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="http://assisista.live:80/images/c4fc4634e6e6ee29f11f364ec8e0e25d.png",Animal Planet 4K
+#EXTINF:-1,Animal Planet
 http://assista.live:80/5528999773199/94596866/124741
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png",TELECINE PREMIUM FHD DUAL AUDIO
+#EXTINF:-1,TELECINE PREMIUM
 http://assista.live:80/5528999773199/94596866/122637
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png",TELECINE PREMIUM HD DUAL AUDIO
+#EXTINF:-1,TELECINE PREMIUM
 http://assista.live:80/5528999773199/94596866/122639
-#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png",TELECINE PREMIUM SD DUAL AUDIO
+#EXTINF:-1,TELECINE PREMIUM
 http://assista.live:80/5528999773199/94596866/122642
 #EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://assisista.live:80/images/b7ac7dc3145b2be99f99cf133e57b8ab.png",TELECINE ACTION FHD DUAL AUDIO
 http://assista.live:80/5528999773199/94596866/122643
