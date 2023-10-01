@@ -90,22 +90,22 @@ https://tvcanais.xyz/espn4/index.fmp4.m3u8
 #EXTINF:-1,Fox sports
 https://tvcanais.xyz/fox_sports/index.fmp4.m3u8
 
-#EXTINF:-1,Premiere Clubes 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNU3jxx0gK_Raj4u8WqaGtziQf2s17-XEVIg&usqp=CAU" group-title=,1,Premiere Clubes 
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14365
 
-#EXTINF:-1,Premiere 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNU3jxx0gK_Raj4u8WqaGtziQf2s17-XEVIg&usqp=CAU" group-title=,1,Premiere 2
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14366
 
 #EXTINF:-1,Premiere 3 
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14367
 
-#EXTINF:-1,Premiere 4 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNU3jxx0gK_Raj4u8WqaGtziQf2s17-XEVIg&usqp=CAU" group-title=,1,Premiere 4 
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14368
 
-#EXTINF:-1,Premiere 5 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNU3jxx0gK_Raj4u8WqaGtziQf2s17-XEVIg&usqp=CAU" group-title=,1,Premiere 5 
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14369
 
-#EXTINF:-1,Premiere 6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNU3jxx0gK_Raj4u8WqaGtziQf2s17-XEVIg&usqp=CAU" group-title=,1,Premiere 6
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14370
 
 #EXTINF:-1,TNT
@@ -135,7 +135,7 @@ http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96
 #EXTINF:-1,ESPN 3
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14355
 
-#EXTINF:-1,Fox Esporte
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2ZxGPC__4qax7qUeoAcuMJMI_NOyoQVCRk3qmJhGp5rugs3zJsmt3cT0Weic_zogvhY&usqp=CAU" group-title=,,Fox Sports
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14359
 
 #EXTINF:-1,Cartoonito
@@ -171,10 +171,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fb
 #EXTINF:-1,Tooncast
 https://tvcanais.xyz/tooncast/index.fmp4.m3u8
 
-#EXTINF:-1,Gospel Cartoon
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB3unXeDiM7Q3MmJRsGb76JDxYjlSg9GI1AI7P8P1cpEVlvLTR-2aCteSWNhUY6EwOi8g&usqp=CAU" group-title=,,Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF:-1,ZooMoo Kids
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRynEbU96h918pi-0sT16UNoY8nYEccMVeqAA&usqp=CAU" group-title=,,ZooMoo Kids
 https://tvcanais.xyz/zoomoo_kids/index.fmp4.m3u8
 
 #EXTINF:-1,Animal Planet
