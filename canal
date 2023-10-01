@@ -7,9 +7,6 @@ http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 https://simulcast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/2402654f-e16b-4f35-ab84-87088eeb2397/4.m3u8
 
 #EXTINF:-1,Band
-https://tvcanais.xyz/bandsp/index.fmp4.m3u8
-
-#EXTINF:-1,Band minas
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 
 #EXTINF:-1,Canção Nova
@@ -24,7 +21,7 @@ https://tvcanais.xyz/idealtv/index.fmp4.m3u8
 #EXTINF:-1,RBI TV
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 
-#EXTINF:-1,TV Pai Eterno
+#EXTINF:-1,Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 
 #EXTINF:-1,Record News
@@ -42,7 +39,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w6
 #EXTINF:-1,Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/480p/chunks.m3u8
 
-#EXTINF:-1,tv evangelizar
+#EXTINF:-1,TV Evangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 
 #EXTINF:-1,Fultura
@@ -69,7 +66,7 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Esportes",TNT Sports 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-480p.m3u8
 
-#EXTINF:-1,Band sport
+#EXTINF:-1,Band Sport
 http://assista.live:80/5528999773199/94596866/130568
 
 #EXTINF:-1,ESPN 
@@ -123,7 +120,7 @@ http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96
 #EXTINF:-1,sportv 3
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14362
 
-#EXTINF:-1,Band Sport
+#EXTINF:-1,Band Esporte
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14364
 
 #EXTINF:-1,Combate
@@ -138,7 +135,7 @@ http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96
 #EXTINF:-1,ESPN 3
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14355
 
-#EXTINF:-1,Fox Sport
+#EXTINF:-1,Fox Esporte
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14359
 
 #EXTINF:-1,Cartoonito
