@@ -162,7 +162,7 @@ http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
 #EXTINF:-1,Nick
 https://i.mjh.nz/PlutoTV/645951c0e94c38000802d2cb-alt.m3u8
 
-#EXTINF:-1,BABY SHARK TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh1VYFlmc-wZ68v1_wyFnu-ZQ4xZRIVpkUpZeOlm3ygA&s" group-title=,BABY SHARK TV
 https://i.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8
 
 #EXTINF:-1,Nick jr 
