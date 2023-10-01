@@ -269,7 +269,7 @@ https://tvcanais.xyz/telecine_premium/index.fmp4.m3u8
 https://tvcanais.xyz/telecine_touch/index.fmp4.m3u8
 
 #EXTINF:-1,TCM
-https://tvcanais.xyz/tcm/index.fmp4.m3u8
+https://cdn-1.nxplay.com.br/TCM_TK/index.m3u8
 
 #EXTINF:-1,TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
