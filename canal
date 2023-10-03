@@ -343,7 +343,10 @@ http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
 #EXTINF:-1,Modo Viagem
-https://tvcanais.xyz/modo_viagem/index.fmp4.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14557.m3u8
+
+#EXTINF:-1,É
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14441.m3u8
 
 #EXTINF:-1,A&E
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14408.m3u8
@@ -466,7 +469,7 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 https://tvcanais.xyz/rede_gospel/index.fmp4.m3u8
 
 #EXTINF:-1,Futura
-https://tvcanais.xyz/futura/index.fmp4.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14560.m3u8
 
 #EXTINF:-1,POLISHOP
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14407.m3u8
