@@ -151,10 +151,10 @@ https://tvcanais.xyz/discovery_kids/index.fmp4.m3u8
 https://tvcanais.xyz/disney_channel/index.fmp4.m3u8
 
 #EXTINF:-1,Disney 
-http://assista.live:80/5528999773199/94596866/130584
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14413.m3u8
 
 #EXTINF:-1,Gloob
-https://tvcanais.xyz/gloob/index.fmp4.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14420.m3u8
 
 #EXTINF:-1,Gloobinho
 http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
@@ -169,7 +169,7 @@ https://i.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&device DNT=%7BTARGETOPT%7D&id do dispositivo =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1,Tooncast
-https://tvcanais.xyz/tooncast/index.fmp4.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14422.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB3unXeDiM7Q3MmJRsGb76JDxYjlSg9GI1AI7P8P1cpEVlvLTR-2aCteSWNhUY6EwOi8g&usqp=CAU" group-title=,,Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
@@ -180,8 +180,11 @@ https://tvcanais.xyz/zoomoo_kids/index.fmp4.m3u8
 #EXTINF:-1,Animal Planet
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
+#EXTINF:-1,Animal Planet
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14428.m3u8
+
 #EXTINF:-1,Arte 1
-https://tvcanais.xyz/art1/index.fmp4.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14559.m3u8
 
 #EXTINF:-1,Discovery Channel
 https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
@@ -189,20 +192,23 @@ https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 #EXTINF:-1,Discovery Science
 https://cdn-1.nxplay.com.br/HISTORY2_NX/index.m3u8
 
+#EXTINF:-1,Discovery Science
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14436.m3u8
+
 #EXTINF:-1,H2
-https://tvcanais.xyz/history2/index.fmp4.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14430
 
 #EXTINF:-1,History
-http://assista.live:80/5528999773199/94596866/130608
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14431
 
 #EXTINF:-1,National Geographic
-http://assista.live:80/5528999773199/94596866/130614
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14427.m3u8
 
 #EXTINF:-1,Discovery Theater
-https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14433.m3u8
 
 #EXTINF:-1,Discovery World 
-https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14435.m3u8
 
 #EXTINF:-1,cine skay
 https://i.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
@@ -226,10 +232,10 @@ http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14396
 
 #EXTINF:-1,Comedy Central
-http://assista.live:80/5528999773199/94596866/130576
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14405.m3u8
 
 #EXTINF:-1,Star
-http://assista.live:80/5528999773199/94596866/123321
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14379.m3u8
 
 #EXTINF:-1,FX
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14381
@@ -259,10 +265,10 @@ http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14395
 
 #EXTINF:-1,Megapix
-http://assista.live:80/5528999773199/94596866/130611
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14401.m3u8
 
 #EXTINF:-1,Paramount Network
-http://assista.live:80/5528999773199/94596866/130619
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14402.m3u8
 
 #EXTINF:-1,Sony
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14399
@@ -313,13 +319,13 @@ https://cdn-1.nxplay.com.br/TCM_TK/index.m3u8
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 
 #EXTINF:-1,tnt series
-http://assista.live:80/5528999773199/94596866/123341
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14375.m3u8
 
 #EXTINF:-1,Universal
-http://assista.live:80/5528999773199/94596866/123346
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14406.m3u8
 
 #EXTINF:-1,Warner
-http://assista.live:80/5528999773199/94596866/123349
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14404.m3u8
 
 #EXTINF:-1,Band News
 http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
@@ -340,10 +346,10 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://tvcanais.xyz/modo_viagem/index.fmp4.m3u8
 
 #EXTINF:-1,A&E
-http://assista.live:80/5528999773199/94596866/130563
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14408.m3u8
 
 #EXTINF:-1,BIS
-https://tvcanais.xyz/bis/index.fmp4.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14423.m3u8
 
 #EXTINF:-1,Comed Central
 https://tvcanais.xyz/come_central/index.fmp4.m3u8
@@ -352,7 +358,7 @@ https://tvcanais.xyz/come_central/index.fmp4.m3u8
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14400
 
 #EXTINF:-1,Discovery Turbo
-https://tvcanais.xyz/discovery_turbo/index.fmp4.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14434.m3u8
 
 #EXTINF:-1,Sabor e Arte
 https://tvcanais.xyz/arte/index.fmp4.m3u8
@@ -382,10 +388,10 @@ https://tvcanais.xyz/cinecanal/index.fmp4.m3u8
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14379
 
 #EXTINF:-1,GNT
-https://tvcanais.xyz/gnt/index.fmp4.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14443.m3u8
 
 #EXTINF:-1,HGTV
-https://tvcanais.xyz/hgtv/index.fmp4.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14437.m3u8
 
 #EXTINF:-1,Health
 https://tvcanais.xyz/health/index.fmp4.m3u8
@@ -394,7 +400,7 @@ EXTINF:-1,ID
 https://tvcanais.xyz/id/index.fmp4.m3u8
 
 #EXTINF:-1,Lifetime
-https://tvcanais.xyz/lifetime/index.fmp4.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14446.m3u8
 
 #EXTINF:-1,MTV
 http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
@@ -463,7 +469,7 @@ https://tvcanais.xyz/rede_gospel/index.fmp4.m3u8
 https://tvcanais.xyz/futura/index.fmp4.m3u8
 
 #EXTINF:-1,POLISHOP
-https://tvcanais.xyz/polishop/index.fmp4.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14407.m3u8
 
 #EXTINF:-1,SHOPTIME
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/522
