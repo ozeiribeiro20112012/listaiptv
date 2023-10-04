@@ -207,7 +207,7 @@ http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96
 #EXTINF:-1,National Geographic
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14427.m3u8
 
-#EXTINF:-1,Discovery Theater
+#EXTINF:-1,DISCOVERY THEATER
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14433.m3u8
 
 #EXTINF:-1,Discovery World 
@@ -296,6 +296,9 @@ http://assista.live:80/5528999773199/94596866/123333
 
 #EXTINF:-1,ACTION
 https://tvcanais.xyz/action/index.fmp4.m3u8
+
+#EXTINF:-1,STAR CHANNEL 
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14379
 
 #EXTINF:-1,Telecine Action
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14382
@@ -392,9 +395,6 @@ https://tvcanais.xyz/food_network/index.fmp4.m3u8
 
 #EXTINF:-1,Cine Canal
 https://tvcanais.xyz/cinecanal/index.fmp4.m3u8
-
-#EXTINF:-1,Star 
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14379
 
 #EXTINF:-1,GNT
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14443.m3u8
