@@ -189,6 +189,9 @@ http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96
 #EXTINF:-1,Discovery Channel
 https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 
+#EXTINF:-1,Discovery Channel
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14432
+
 #EXTINF:-1,Discovery Science
 https://cdn-1.nxplay.com.br/HISTORY2_NX/index.m3u8
 
@@ -345,6 +348,9 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1,Modo Viagem
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14557.m3u8
 
+#EXTINF:-1,Prime
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14407
+
 #EXTINF:-1,É
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14441.m3u8
 
@@ -379,7 +385,7 @@ https://tvcanais.xyz/e/index.fmp4.m3u8
 https://tvcanais.xyz/fashion/index.fmp4.m3u8
 
 #EXTINF:-1,FISH TV
-https://tvcanais.xyz/fish_tv/index.fmp4.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14440
 
 #EXTINF:-1,food_network
 https://tvcanais.xyz/food_network/index.fmp4.m3u8
@@ -409,7 +415,7 @@ http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96
 http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
 
 #EXTINF:-1,Multishow
-https://tvcanais.xyz/multishow/index.fmp4.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14424
 
 #EXTINF:-1,OFF
 https://tvcanais.xyz/off/index.fmp4.m3u8
@@ -424,7 +430,7 @@ https://tvcanais.xyz/tlc/index.fmp4.m3u8
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
 #EXTINF:-1,Viva
-https://tvcanais.xyz/viva/index.fmp4.m3u8
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14444
 
 #EXTINF:-1,OFF
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14363
