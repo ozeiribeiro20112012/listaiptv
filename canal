@@ -1,3 +1,5 @@
+
+
 #EXTM3U
 
 #EXTINF:-1,Globo
@@ -69,62 +71,62 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-480p.m3u8
 #EXTINF:-1,Band Sport
 http://assista.live:80/5528999773199/94596866/130568
 
-#EXTINF:-1,ESPN 
-https://tvcanais.xyz/espn/index.fmp4.m3u8
+#EXTINF:-1,ESPN
+http://assista.live:80/5528999773199/94596866/130587
+
+#EXTINF:-1,ESPN 2
+http://assista.live:80/5528999773199/94596866/130588
 
 #EXTINF:-1,ESPN Brasil
-https://tvcanais.xyz/espn_brasil/index.fmp4.m3u8
+http://assista.live:80/5528999773199/94596866/130589
 
-#EXTINF:-1,ESPN Extra 
-https://tvcanais.xyz/extra/index.fmp4.m3u8
+#EXTINF:-1,ESPN Extra
+http://assista.live:80/5528999773199/94596866/130590
 
-#EXTINF:-1,ESPN 2 
-https://tvcanais.xyz/espn2/index.fmp4.m3u8
+#EXTINF:-1,Fox Sports
+http://assista.live:80/5528999773199/94596866/130593
 
-#EXTINF:-1,ESPN 3 
-https://tvcanais.xyz/espn3/index.fmp4.m3u8
+#EXTINF:-1,Fox Sports 2
+http://assista.live:80/5528999773199/94596866/130594
 
-#EXTINF:-1,ESPN 4
-https://tvcanais.xyz/espn4/index.fmp4.m3u8
+#EXTINF:-1,Premiere 1
+http://assista.live:80/5528999773199/94596866/130620
 
-#EXTINF:-1,Fox sports
-https://tvcanais.xyz/fox_sports/index.fmp4.m3u8
+#EXTINF:-1,Premiere3
+http://assista.live:80/5528999773199/94596866/130622
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNU3jxx0gK_Raj4u8WqaGtziQf2s17-XEVIg&usqp=CAU" group-title=,Premiere Clubes 
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14365
+#EXTINF:-1,Premiere4
+http://assista.live:80/5528999773199/94596866/130623
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNU3jxx0gK_Raj4u8WqaGtziQf2s17-XEVIg&usqp=CAU" group-title=,Premiere 2
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14366
+#EXTINF:-1,Premiere5
+http://assista.live:80/5528999773199/94596866/130624
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNU3jxx0gK_Raj4u8WqaGtziQf2s17-XEVIg&usqp=CAU" group-title=,Premiere 3 
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14367
+#EXTINF:-1,Premiere6
+http://assista.live:80/5528999773199/94596866/130625
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNU3jxx0gK_Raj4u8WqaGtziQf2s17-XEVIg&usqp=CAU" group-title=,Premiere 4 
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14368
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNU3jxx0gK_Raj4u8WqaGtziQf2s17-XEVIg&usqp=CAU" group-title=,Premiere 5 
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14369
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNU3jxx0gK_Raj4u8WqaGtziQf2s17-XEVIg&usqp=CAU" group-title=,Premiere 6
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14370
+#EXTINF:-1,Premiere7
+http://assista.live:80/5528999773199/94596866/130626
 
 #EXTINF:-1,TNT
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14374
 
-#EXTINF:-1,Sportv
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14360
+#EXTINF:-1,SporTV
+http://assista.live:80/5528999773199/94596866/130628
 
-#EXTINF:-1,sportv 2
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14361
+#EXTINF:-1,SporTV 2
+http://assista.live:80/5528999773199/94596866/130629
 
-#EXTINF:-1,sportv 3
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14362
+#EXTINF:-1,SporTV 3
+http://assista.live:80/5528999773199/94596866/130630
+
+#EXTINF:-1,SporTv 4
+http://assista.live:80/5528999773199/94596866/130631
 
 #EXTINF:-1,Band Esporte
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14364
+http://assista.live:80/5528999773199/94596866/130568
 
 #EXTINF:-1,Combate
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14353
+http://assista.live:80/5528999773199/94596866/130575
 
 #EXTINF:-1,Jogos ao vivo
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14354
@@ -139,13 +141,13 @@ http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14359
 
 #EXTINF:-1,Cartoonito
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14418.m3u8
+http://assista.live:80/5528999773199/94596866/130572
 
-#EXTINF:-1,Cartoon
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14417.m3u8
+#EXTINF:-1,CartoonNetwork
+http://assista.live:80/5528999773199/94596866/130573
 
 #EXTINF:-1,Discovery kids
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14415.m3u8
+http://assista.live:80/5528999773199/94596866/130579
 
 #EXTINF:-1,Discovery channel
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14432.m3u8
@@ -154,19 +156,19 @@ http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14413.m3u8
 
 #EXTINF:-1,Gloob
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14420.m3u8
+http://assista.live:80/5528999773199/94596866/130597
 
 #EXTINF:-1,Gloobinho
 http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
 
-#EXTINF:-1,Nick
-https://i.mjh.nz/PlutoTV/645951c0e94c38000802d2cb-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh1VYFlmc-wZ68v1_wyFnu-ZQ4xZRIVpkUpZeOlm3ygA&s" group-title=,BABY SHARK TV
 https://i.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8
 
-#EXTINF:-1,Nick jr 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&device DNT=%7BTARGETOPT%7D&id do dispositivo =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Nickelodeon
+http://assista.live:80/5528999773199/94596866/130616
+
+#EXTINF:-1,NickJr
+http://assista.live:80/5528999773199/94596866/130617
 
 #EXTINF:-1,Tooncast
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14422.m3u8
@@ -181,7 +183,7 @@ https://tvcanais.xyz/zoomoo_kids/index.fmp4.m3u8
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
 #EXTINF:-1,Animal Planet
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14428.m3u8
+http://assista.live:80/5528999773199/94596866/130565
 
 #EXTINF:-1,Arte 1
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14559.m3u8
@@ -189,29 +191,38 @@ http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96
 #EXTINF:-1,Discovery Channel
 https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 
+#EXTINF:-1,ID
+http://assista.live:80/5528999773199/94596866/130609
+
 #EXTINF:-1,Discovery Channel
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14432
+http://assista.live:80/5528999773199/94596866/130577
+
+#EXTINF:-1,Discovery Turbo
+http://assista.live:80/5528999773199/94596866/130582
 
 #EXTINF:-1,Discovery Science
 https://cdn-1.nxplay.com.br/HISTORY2_NX/index.m3u8
 
 #EXTINF:-1,Discovery Science
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14436.m3u8
+http://assista.live:80/5528999773199/94596866/130580
 
 #EXTINF:-1,H2
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14430
+http://assista.live:80/5528999773199/94596866/130599
 
 #EXTINF:-1,History
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14431
+http://assista.live:80/5528999773199/94596866/130608
 
-#EXTINF:-1,National Geographic
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14427.m3u8
+#EXTINF:-1,NatGeo
+http://assista.live:80/5528999773199/94596866/130614
+
+#EXTINF:-1,Discovery Home & Health
+http://assista.live:80/5528999773199/94596866/130578
 
 #EXTINF:-1,Discovery Theater
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14433.m3u8
+http://assista.live:80/5528999773199/94596866/130581
 
 #EXTINF:-1,Discovery World 
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14435.m3u8
+http://assista.live:80/5528999773199/94596866/130583
 
 #EXTINF:-1,cine skay
 https://i.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
@@ -225,62 +236,65 @@ https://i.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
 #EXTINF:-1,AMC
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
+#EXTINF:-1,AMC
+http://assista.live:80/5528999773199/94596866/130564
+
 #EXTINF:-1,AXN
 https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 
 #EXTINF:-1,AXN
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14398
+http://assista.live:80/5528999773199/94596866/130566
 
 #EXTINF:-1,Cinemax
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14396
+http://assista.live:80/5528999773199/94596866/130574
 
 #EXTINF:-1,Comedy Central
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14405.m3u8
 
 #EXTINF:-1,Star Channel
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14379.m3u8
+http://assista.live:80/5528999773199/94596866/130632
 
 #EXTINF:-1,FX
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14381
+http://assista.live:80/5528999773199/94596866/130595
 
 #EXTINF:-1,HBO
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14388
+http://assista.live:80/5528999773199/94596866/130600
 
 #EXTINF:-1,HBO 2
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14389
 
 #EXTINF:-1,HBO Plus
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14390
+http://assista.live:80/5528999773199/94596866/130603
 
 #EXTINF:-1,HBO Signature
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14391
+http://assista.live:80/5528999773199/94596866/130605
 
 #EXTINF:-1,HBO Family
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14392
+http://assista.live:80/5528999773199/94596866/130601
 
 #EXTINF:-1,HBO mundi
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14393
+http://assista.live:80/5528999773199/94596866/130602
 
 #EXTINF:-1,HBO pop
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14394
+http://assista.live:80/5528999773199/94596866/130604
 
 #EXTINF:-1,HBO xtreme
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14395
+http://assista.live:80/5528999773199/94596866/130606
 
 #EXTINF:-1,Megapix
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14401.m3u8
+http://assista.live:80/5528999773199/94596866/130611
 
-#EXTINF:-1,Paramount Network
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14402.m3u8
+#EXTINF:-1,Paramount
+http://assista.live:80/5528999773199/94596866/130619
 
 #EXTINF:-1,Sony
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14399
+http://assista.live:80/5528999773199/94596866/130570
 
 #EXTINF:-1,Space
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8?ManoTV
 
 #EXTINF:-1,Space
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14376
+http://assista.live:80/5528999773199/94596866/130627
 
 #EXTINF:-1,Cult
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14380
@@ -301,22 +315,22 @@ https://tvcanais.xyz/action/index.fmp4.m3u8
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14379
 
 #EXTINF:-1,Telecine Action
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14382
+http://assista.live:80/5528999773199/94596866/130636
+
+#EXTINF:-1,Telecine Cult
+http://assista.live:80/5528999773199/94596866/130637
+
+#EXTINF:-1,Telecine Fun
+http://assista.live:80/5528999773199/94596866/130638
+
+#EXTINF:-1,Telecine Pipoca
+http://assista.live:80/5528999773199/94596866/130639
 
 #EXTINF:-1,Telecine Premium
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14383
+http://assista.live:80/5528999773199/94596866/130640
 
-#EXTINF:-1,telecine Pipoca
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14384
-
-#EXTINF:-1,telecine Touch
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14385
-
-#EXTINF:-1,telecine fun
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14386
-
-#EXTINF:-1,telecine Cult
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14387
+#EXTINF:-1,Telecine Touch
+http://assista.live:80/5528999773199/94596866/130641
 
 #EXTINF:-1,TCM
 https://cdn-1.nxplay.com.br/TCM_TK/index.m3u8
@@ -324,14 +338,20 @@ https://cdn-1.nxplay.com.br/TCM_TK/index.m3u8
 #EXTINF:-1,TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 
-#EXTINF:-1,tnt series
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14375.m3u8
+#EXTINF:-1,TNT
+http://assista.live:80/5528999773199/94596866/130643
 
-#EXTINF:-1,Universal
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14406.m3u8
+#EXTINF:-1,TNT NOVELAS
+http://assista.live:80/5528999773199/94596866/130635
+
+#EXTINF:-1,tnt series
+http://assista.live:80/5528999773199/94596866/130644
+
+#EXTINF:-1,Studio Universal (H265)
+http://assista.live:80/5528999773199/94596866/130633
 
 #EXTINF:-1,Warner
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14404.m3u8
+http://assista.live:80/5528999773199/94596866/130646
 
 #EXTINF:-1,Band News
 http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
@@ -343,7 +363,7 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
 
 #EXTINF:-1,Globo News
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14562
+http://assista.live:80/5528999773199/94596866/130596
 
 #EXTINF:-1,Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
@@ -354,23 +374,21 @@ http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96
 #EXTINF:-1,Prime
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14407
 
-#EXTINF:-1,É
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14441.m3u8
+#EXTINF:-1,E!
+http://assista.live:80/5528999773199/94596866/130586
 
 #EXTINF:-1,A&E
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14408.m3u8
+http://assista.live:80/5528999773199/94596866/130563
 
 #EXTINF:-1,BIS
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14423.m3u8
+http://assista.live:80/5528999773199/94596866/130569
 
 #EXTINF:-1,Comed Central
-https://tvcanais.xyz/come_central/index.fmp4.m3u8
+http://assista.live:80/5528999773199/94596866/130576
 
 #EXTINF:-1,USA
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14400
 
-#EXTINF:-1,Discovery Turbo
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14434.m3u8
 
 #EXTINF:-1,Sabor e Arte
 https://tvcanais.xyz/arte/index.fmp4.m3u8
@@ -388,34 +406,31 @@ https://tvcanais.xyz/e/index.fmp4.m3u8
 https://tvcanais.xyz/fashion/index.fmp4.m3u8
 
 #EXTINF:-1,FISH TV
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14440
+http://assista.live:80/5528999773199/94596866/130591
 
-#EXTINF:-1,food_network
-https://tvcanais.xyz/food_network/index.fmp4.m3u8
+#EXTINF:-1,FoodNetwork
+http://assista.live:80/5528999773199/94596866/130592
 
 #EXTINF:-1,Cine Canal
 https://tvcanais.xyz/cinecanal/index.fmp4.m3u8
 
 #EXTINF:-1,GNT
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14443.m3u8
+http://assista.live:80/5528999773199/94596866/130598
 
 #EXTINF:-1,HGTV
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14437.m3u8
+http://assista.live:80/5528999773199/94596866/130607
 
 #EXTINF:-1,Health
 https://tvcanais.xyz/health/index.fmp4.m3u8
 
-EXTINF:-1,ID
-https://tvcanais.xyz/id/index.fmp4.m3u8
-
 #EXTINF:-1,Lifetime
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14446.m3u8
+http://assista.live:80/5528999773199/94596866/130610
 
 #EXTINF:-1,MTV
 http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
 
 #EXTINF:-1,Multishow
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14424
+http://assista.live:80/5528999773199/94596866/130613
 
 #EXTINF:-1,OFF
 https://tvcanais.xyz/off/index.fmp4.m3u8
@@ -424,7 +439,7 @@ https://tvcanais.xyz/off/index.fmp4.m3u8
 https://playtv.mediastreaming.com.br/play/live.stream/chunks.m3u8
 
 #EXTINF:-1,TLC
-https://tvcanais.xyz/tlc/index.fmp4.m3u8
+http://assista.live:80/5528999773199/94596866/130642
 
 #EXTINF:-1,Curta tv
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
@@ -433,16 +448,16 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14444
 
 #EXTINF:-1,OFF
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14363
+http://assista.live:80/5528999773199/94596866/130618
 
 #EXTINF:-1,WOOHOO
-https://tvcanais.xyz/woohoo/index.fmp4.m3u8
+http://assista.live:80/5528999773199/94596866/130647
 
 #EXTINF:-1,TV Brasil
 https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
 #EXTINF:-1,Canal Brasil
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14397
+http://assista.live:80/5528999773199/94596866/130571
 
 #EXTINF:-1,TV Gazeta
 https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8?ManoTV
@@ -506,3 +521,5 @@ http://testo.app-host11.xyz:2095/Tourobox1-nk4bTe7tRI/C8XSOm46Sk/468
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kOq36Q5.png" group-title="Esportes",Canal 6
 http://testo.app-host11.xyz:2095/Tourobox1-nk4bTe7tRI/C8XSOm46Sk/469
+
+
