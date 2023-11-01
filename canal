@@ -504,20 +504,7 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1,TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/kOq36Q5.png" group-title="Esportes",Canal 1 
-http://superblazertop.com.br.global.prod.fastly.net/live3/stlatv1/play2.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/kOq36Q5.png" group-title="Esportes",Canal 2
-http://superblazertop.com.br.global.prod.fastly.net/live3/stlatv2/play2.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/kOq36Q5.png" group-title="Esportes",Canal 3
-http://superblazertop.com.br.global.prod.fastly.net/live3/stlatv3/play2.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/kOq36Q5.png" group-title="Esportes",Canal 4
-http://testo.app-host11.xyz:2095/Tourobox1-nk4bTe7tRI/C8XSOm46Sk/467
-
-#EXTINF:-1 tvg-logo="https://imgur.com/kOq36Q5.png" group-title="Esportes",Canal 5
-http://testo.app-host11.xyz:2095/Tourobox1-nk4bTe7tRI/C8XSOm46Sk/468
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kOq36Q5.png" group-title="Esportes",Canal 6
 http://testo.app-host11.xyz:2095/Tourobox1-nk4bTe7tRI/C8XSOm46Sk/469
