@@ -357,40 +357,37 @@ http://splaytv.club:80/amanda/amanda@personal/83411
 http://splaytv.club:80/amanda/amanda@personal/83423
 
 #EXTINF:-1,SporTV
-http://assista.live:80/5528999773199/94596866/130628
+http://splaytv.club:80/amanda/amanda@personal/83416
 
 #EXTINF:-1,SporTV 2
-http://assista.live:80/5528999773199/94596866/130629
+http://splaytv.club:80/amanda/amanda@personal/83414
 
 #EXTINF:-1,SporTV 3
-http://assista.live:80/5528999773199/94596866/130630
-
-#EXTINF:-1,SporTv 4
-http://assista.live:80/5528999773199/94596866/130631
+http://splaytv.club:80/amanda/amanda@personal/83415
 
 #EXTINF:-1,Band Esporte
-http://assista.live:80/5528999773199/94596866/130568
+http://splaytv.club:80/amanda/amanda@personal/83371
 
 #EXTINF:-1,Combate
-http://assista.live:80/5528999773199/94596866/130575
-
-#EXTINF:-1,Jogos ao vivo
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14354
+http://splaytv.club:80/amanda/amanda@personal/83376
 
 #EXTINF:-1,ESPN
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14356
+http://splaytv.club:80/amanda/amanda@personal/83385
+
+#EXTINF:-1,ESPN 2
+http://splaytv.club:80/amanda/amanda@personal/83383
 
 #EXTINF:-1,ESPN 3
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14355
+http://splaytv.club:80/amanda/amanda@personal/83384
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2ZxGPC__4qax7qUeoAcuMJMI_NOyoQVCRk3qmJhGp5rugs3zJsmt3cT0Weic_zogvhY&usqp=CAU" group-title=,,Fox Sports
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14359
+http://splaytv.club:80/amanda/amanda@personal/83389
 
 #EXTINF:-1,BIS
-http://assista.live:80/5528999773199/94596866/130569
+http://splaytv.club:80/amanda/amanda@personal/83337
 
 #EXTINF:-1,Comed Central
-http://assista.live:80/5528999773199/94596866/130576
+http://splaytv.club:80/amanda/amanda@personal/83339
 
 #EXTINF:-1,USA
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14400
