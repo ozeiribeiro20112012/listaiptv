@@ -56,6 +56,249 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:-1,TV cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
+#EXTINF:-1,Cartoonito
+http://splaytv.club:80/amanda/amanda@personal/126104
+
+#EXTINF:-1,CartoonNetwork
+http://splaytv.club:80/amanda/amanda@personal/83192
+
+#EXTINF:-1,Discovery kids
+http://splaytv.club:80/amanda/amanda@personal/126106
+
+#EXTINF:-1,Discovery channel
+http://splaytv.club:80/amanda/amanda@personal/83196
+
+#EXTINF:-1,Disney 
+http://splaytv.club:80/amanda/amanda@personal/83204
+
+#EXTINF:-1,Gloob
+http://splaytv.club:80/amanda/amanda@personal/126109
+
+#EXTINF:-1,Gloobinho
+http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh1VYFlmc-wZ68v1_wyFnu-ZQ4xZRIVpkUpZeOlm3ygA&s" group-title=,BABY SHARK TV
+https://i.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://splaytv.club:80/amanda/amanda@personal/126112
+
+#EXTINF:-1,NickJr
+http://splaytv.club:80/amanda/amanda@personal/126113
+
+#EXTINF:-1,Tooncast
+http://splaytv.club:80/amanda/amanda@personal/149345
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB3unXeDiM7Q3MmJRsGb76JDxYjlSg9GI1AI7P8P1cpEVlvLTR-2aCteSWNhUY6EwOi8g&usqp=CAU" group-title=,,Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRynEbU96h918pi-0sT16UNoY8nYEccMVeqAA&usqp=CAU" group-title=,,ZooMoo Kids
+https://tvcanais.xyz/zoomoo_kids/index.fmp4.m3u8
+
+#EXTINF:-1,Animal Planet
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1,Animal Planet
+http://splaytv.club:80/amanda/amanda@personal/83368
+
+#EXTINF:-1,Arte 1
+http://splaytv.club:80/amanda/amanda@personal/164576
+
+#EXTINF:-1,Discovery Channel
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+
+#EXTINF:-1,ID
+http://splaytv.club:80/amanda/amanda@personal/83355
+
+#EXTINF:-1,Discovery Channel
+http://splaytv.club:80/amanda/amanda@personal/83340
+
+#EXTINF:-1,Discovery Turbo
+http://splaytv.club:80/amanda/amanda@personal/83343
+
+#EXTINF:-1,Discovery Science
+https://cdn-1.nxplay.com.br/HISTORY2_NX/index.m3u8
+
+#EXTINF:-1,Discovery Science
+http://splaytv.club:80/amanda/amanda@personal/83379
+
+#EXTINF:-1,H2
+http://splaytv.club:80/amanda/amanda@personal/83394
+
+#EXTINF:-1,History
+http://splaytv.club:80/amanda/amanda@personal/83393
+
+#EXTINF:-1,NatGeo
+http://splaytv.club:80/amanda/amanda@personal/147615
+
+#EXTINF:-1,Discovery Home & Health
+http://splaytv.club:80/amanda/amanda@personal/83341
+
+#EXTINF:-1,Discovery Theater
+http://splaytv.club:80/amanda/amanda@personal/83342
+
+#EXTINF:-1,Discovery World 
+http://assista.live:80/5528999773199/94596866/130583
+
+#EXTINF:-1,cine skay
+https://i.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
+
+#EXTINF:-1,CINE COMÉDIA
+https://i.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8
+
+#EXTINF:-1,FICCAO CIENTIFICA
+https://i.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
+
+#EXTINF:-1,AMC
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
+#EXTINF:-1,AMC
+http://splaytv.club:80/amanda/amanda@personal/83336
+
+#EXTINF:-1,AXN
+https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+
+#EXTINF:-1,AXN
+http://splaytv.club:80/amanda/amanda@personal/83369
+
+#EXTINF:-1,Cinemax
+http://splaytv.club:80/amanda/amanda@personal/83338
+
+#EXTINF:-1,Comedy Central
+http://splaytv.club:80/amanda/amanda@personal/83339
+
+#EXTINF:-1,Star Channel
+http://splaytv.club:80/amanda/amanda@personal/83346
+
+#EXTINF:-1,FX
+http://assista.live:80/5528999773199/94596866/130595
+
+#EXTINF:-1,HBO
+http://splaytv.club:80/amanda/amanda@personal/83351
+
+#EXTINF:-1,HBO 2
+http://splaytv.club:80/amanda/amanda@personal/83354
+
+#EXTINF:-1,HBO Plus
+http://splaytv.club:80/amanda/amanda@personal/83352
+
+#EXTINF:-1,HBO Signature
+http://splaytv.club:80/amanda/amanda@personal/83353
+
+#EXTINF:-1,HBO Family
+http://splaytv.club:80/amanda/amanda@personal/83350
+
+#EXTINF:-1,HBO mundi
+http://splaytv.club:80/amanda/amanda@personal/83397
+
+#EXTINF:-1,HBO pop
+http://splaytv.club:80/amanda/amanda@personal/83356
+
+#EXTINF:-1,HBO xtreme
+http://splaytv.club:80/amanda/amanda@personal/83398
+
+#EXTINF:-1,Megapix
+http://splaytv.club:80/amanda/amanda@personal/83399
+
+#EXTINF:-1,Paramount
+http://splaytv.club:80/amanda/amanda@personal/83360
+
+#EXTINF:-1,Sony
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475-4-main.m3u8
+
+#EXTINF:-1,Sony
+http://assista.live:80/5528999773199/94596866/130570
+
+#EXTINF:-1,Space
+https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8?ManoTV
+
+#EXTINF:-1,Space
+http://splaytv.club:80/amanda/amanda@personal/83361
+
+#EXTINF:-1,Cult
+http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14380
+
+#EXTINF:-1,Studio Universal
+http://splaytv.club:80/amanda/amanda@personal/83417
+
+#EXTINF:-1,SYFY
+http://splaytv.club:80/amanda/amanda@personal/83418
+
+#EXTINF:-1,TBS
+http://splaytv.club:80/amanda/amanda@personal/83419
+
+#EXTINF:-1,ACTION
+http://splaytv.club:80/amanda/amanda@personal/83420
+
+#EXTINF:-1,STAR CHANNEL 
+http://splaytv.club:80/amanda/amanda@personal/83346
+
+#EXTINF:-1,Telecine Action
+http://splaytv.club:80/amanda/amanda@personal/83420
+
+#EXTINF:-1,Telecine Cult
+http://splaytv.club:80/amanda/amanda@personal/83362
+
+#EXTINF:-1,Telecine Fun
+http://splaytv.club:80/amanda/amanda@personal/83363
+
+#EXTINF:-1,Telecine Pipoca
+http://splaytv.club:80/amanda/amanda@personal/83421
+
+#EXTINF:-1,Telecine Premium
+http://splaytv.club:80/amanda/amanda@personal/83364
+
+#EXTINF:-1,Telecine Touch
+http://splaytv.club:80/amanda/amanda@personal/83365
+
+#EXTINF:-1,E!
+http://splaytv.club:80/amanda/amanda@personal/83345
+
+#EXTINF:-1,A&E
+http://splaytv.club:80/amanda/amanda@personal/83335
+
+#EXTINF:-1,TCM
+https://cdn-1.nxplay.com.br/TCM_TK/index.m3u8
+
+#EXTINF:-1,TNT
+https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1,TNT
+http://splaytv.club:80/amanda/amanda@personal/83423
+
+#EXTINF:-1,TNT NOVELAS
+http://assista.live:80/5528999773199/94596866/130635
+
+#EXTINF:-1,tnt series
+http://splaytv.club:80/amanda/amanda@personal/83366
+
+#EXTINF:-1,Studio Universal (H265)
+http://splaytv.club:80/amanda/amanda@personal/83417
+
+#EXTINF:-1,Warner
+http://splaytv.club:80/amanda/amanda@personal/83428
+
+#EXTINF:-1,Band News
+http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
+
+#EXTINF:-1,CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1,Globo sport
+https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
+
+#EXTINF:-1,Globo News
+http://assista.live:80/5528999773199/94596866/130596
+
+#EXTINF:-1,Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#EXTINF:-1,Modo Viagem
+http://splaytv.club:80/amanda/amanda@personal/83396
+
+#EXTINF:-1,Prime
+http://splaytv.club:80/amanda/amanda@personal/147647
+
 #EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Esportes",TNT Sports 
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
 
@@ -69,46 +312,49 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-480p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-480p.m3u8
 
 #EXTINF:-1,Band Sport
-http://assista.live:80/5528999773199/94596866/130568
+http://splaytv.club:80/amanda/amanda@personal/83371
 
 #EXTINF:-1,ESPN
-http://assista.live:80/5528999773199/94596866/130587
+http://splaytv.club:80/amanda/amanda@personal/83385
 
 #EXTINF:-1,ESPN 2
-http://assista.live:80/5528999773199/94596866/130588
+http://splaytv.club:80/amanda/amanda@personal/83385
 
 #EXTINF:-1,ESPN Brasil
 http://assista.live:80/5528999773199/94596866/130589
 
 #EXTINF:-1,ESPN Extra
-http://assista.live:80/5528999773199/94596866/130590
+http://splaytv.club:80/amanda/amanda@personal/83382
 
 #EXTINF:-1,Fox Sports
 http://assista.live:80/5528999773199/94596866/130593
 
 #EXTINF:-1,Fox Sports 2
-http://assista.live:80/5528999773199/94596866/130594
+http://splaytv.club:80/amanda/amanda@personal/83389
 
 #EXTINF:-1,Premiere 1
-http://assista.live:80/5528999773199/94596866/130620
+http://splaytv.club:80/amanda/amanda@personal/83405
+
+#EXTINF:-1,Premiere 2
+http://splaytv.club:80/amanda/amanda@personal/83406
 
 #EXTINF:-1,Premiere3
-http://assista.live:80/5528999773199/94596866/130622
+http://splaytv.club:80/amanda/amanda@personal/83407
 
 #EXTINF:-1,Premiere4
-http://assista.live:80/5528999773199/94596866/130623
+http://splaytv.club:80/amanda/amanda@personal/83408
 
 #EXTINF:-1,Premiere5
-http://assista.live:80/5528999773199/94596866/130624
+http://splaytv.club:80/amanda/amanda@personal/83409
 
 #EXTINF:-1,Premiere6
-http://assista.live:80/5528999773199/94596866/130625
+http://splaytv.club:80/amanda/amanda@personal/83410
 
 #EXTINF:-1,Premiere7
-http://assista.live:80/5528999773199/94596866/130626
+http://splaytv.club:80/amanda/amanda@personal/83411
 
 #EXTINF:-1,TNT
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14374
+http://splaytv.club:80/amanda/amanda@personal/83423
 
 #EXTINF:-1,SporTV
 http://assista.live:80/5528999773199/94596866/130628
@@ -139,249 +385,6 @@ http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2ZxGPC__4qax7qUeoAcuMJMI_NOyoQVCRk3qmJhGp5rugs3zJsmt3cT0Weic_zogvhY&usqp=CAU" group-title=,,Fox Sports
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14359
-
-#EXTINF:-1,Cartoonito
-http://assista.live:80/5528999773199/94596866/130572
-
-#EXTINF:-1,CartoonNetwork
-http://assista.live:80/5528999773199/94596866/130573
-
-#EXTINF:-1,Discovery kids
-http://assista.live:80/5528999773199/94596866/130579
-
-#EXTINF:-1,Discovery channel
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14432.m3u8
-
-#EXTINF:-1,Disney 
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14413.m3u8
-
-#EXTINF:-1,Gloob
-http://assista.live:80/5528999773199/94596866/130597
-
-#EXTINF:-1,Gloobinho
-http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh1VYFlmc-wZ68v1_wyFnu-ZQ4xZRIVpkUpZeOlm3ygA&s" group-title=,BABY SHARK TV
-https://i.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8
-
-#EXTINF:-1,Nickelodeon
-http://assista.live:80/5528999773199/94596866/130616
-
-#EXTINF:-1,NickJr
-http://assista.live:80/5528999773199/94596866/130617
-
-#EXTINF:-1,Tooncast
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14422.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB3unXeDiM7Q3MmJRsGb76JDxYjlSg9GI1AI7P8P1cpEVlvLTR-2aCteSWNhUY6EwOi8g&usqp=CAU" group-title=,,Gospel Cartoon
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRynEbU96h918pi-0sT16UNoY8nYEccMVeqAA&usqp=CAU" group-title=,,ZooMoo Kids
-https://tvcanais.xyz/zoomoo_kids/index.fmp4.m3u8
-
-#EXTINF:-1,Animal Planet
-https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
-
-#EXTINF:-1,Animal Planet
-http://assista.live:80/5528999773199/94596866/130565
-
-#EXTINF:-1,Arte 1
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14559.m3u8
-
-#EXTINF:-1,Discovery Channel
-https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
-
-#EXTINF:-1,ID
-http://assista.live:80/5528999773199/94596866/130609
-
-#EXTINF:-1,Discovery Channel
-http://assista.live:80/5528999773199/94596866/130577
-
-#EXTINF:-1,Discovery Turbo
-http://assista.live:80/5528999773199/94596866/130582
-
-#EXTINF:-1,Discovery Science
-https://cdn-1.nxplay.com.br/HISTORY2_NX/index.m3u8
-
-#EXTINF:-1,Discovery Science
-http://assista.live:80/5528999773199/94596866/130580
-
-#EXTINF:-1,H2
-http://assista.live:80/5528999773199/94596866/130599
-
-#EXTINF:-1,History
-http://assista.live:80/5528999773199/94596866/130608
-
-#EXTINF:-1,NatGeo
-http://assista.live:80/5528999773199/94596866/130614
-
-#EXTINF:-1,Discovery Home & Health
-http://assista.live:80/5528999773199/94596866/130578
-
-#EXTINF:-1,Discovery Theater
-http://assista.live:80/5528999773199/94596866/130581
-
-#EXTINF:-1,Discovery World 
-http://assista.live:80/5528999773199/94596866/130583
-
-#EXTINF:-1,cine skay
-https://i.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
-
-#EXTINF:-1,CINE COMÉDIA
-https://i.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8
-
-#EXTINF:-1,FICCAO CIENTIFICA
-https://i.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
-
-#EXTINF:-1,AMC
-https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
-
-#EXTINF:-1,AMC
-http://assista.live:80/5528999773199/94596866/130564
-
-#EXTINF:-1,AXN
-https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
-
-#EXTINF:-1,AXN
-http://assista.live:80/5528999773199/94596866/130566
-
-#EXTINF:-1,Cinemax
-http://assista.live:80/5528999773199/94596866/130574
-
-#EXTINF:-1,Comedy Central
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14405.m3u8
-
-#EXTINF:-1,Star Channel
-http://assista.live:80/5528999773199/94596866/130632
-
-#EXTINF:-1,FX
-http://assista.live:80/5528999773199/94596866/130595
-
-#EXTINF:-1,HBO
-http://assista.live:80/5528999773199/94596866/130600
-
-#EXTINF:-1,HBO 2
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14389
-
-#EXTINF:-1,HBO Plus
-http://assista.live:80/5528999773199/94596866/130603
-
-#EXTINF:-1,HBO Signature
-http://assista.live:80/5528999773199/94596866/130605
-
-#EXTINF:-1,HBO Family
-http://assista.live:80/5528999773199/94596866/130601
-
-#EXTINF:-1,HBO mundi
-http://assista.live:80/5528999773199/94596866/130602
-
-#EXTINF:-1,HBO pop
-http://assista.live:80/5528999773199/94596866/130604
-
-#EXTINF:-1,HBO xtreme
-http://assista.live:80/5528999773199/94596866/130606
-
-#EXTINF:-1,Megapix
-http://assista.live:80/5528999773199/94596866/130611
-
-#EXTINF:-1,Paramount
-http://assista.live:80/5528999773199/94596866/130619
-
-#EXTINF:-1,Sony
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475-4-main.m3u8
-
-#EXTINF:-1,Sony
-http://assista.live:80/5528999773199/94596866/130570
-
-#EXTINF:-1,Space
-https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8?ManoTV
-
-#EXTINF:-1,Space
-http://assista.live:80/5528999773199/94596866/130627
-
-#EXTINF:-1,Cult
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14380
-
-#EXTINF:-1,Studio Universal
-https://tvcanais.xyz/studio_universal/index.fmp4.m3u8
-
-#EXTINF:-1,SYFY
-http://assista.live:80/5528999773199/94596866/130634
-
-#EXTINF:-1,TBS
-http://assista.live:80/5528999773199/94596866/123333
-
-#EXTINF:-1,ACTION
-https://tvcanais.xyz/action/index.fmp4.m3u8
-
-#EXTINF:-1,STAR CHANNEL 
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14379
-
-#EXTINF:-1,Telecine Action
-http://assista.live:80/5528999773199/94596866/130636
-
-#EXTINF:-1,Telecine Cult
-http://assista.live:80/5528999773199/94596866/130637
-
-#EXTINF:-1,Telecine Fun
-http://assista.live:80/5528999773199/94596866/130638
-
-#EXTINF:-1,Telecine Pipoca
-http://assista.live:80/5528999773199/94596866/130639
-
-#EXTINF:-1,Telecine Premium
-http://assista.live:80/5528999773199/94596866/130640
-
-#EXTINF:-1,Telecine Touch
-http://assista.live:80/5528999773199/94596866/130641
-
-#EXTINF:-1,TCM
-https://cdn-1.nxplay.com.br/TCM_TK/index.m3u8
-
-#EXTINF:-1,TNT
-https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
-
-#EXTINF:-1,TNT
-http://assista.live:80/5528999773199/94596866/130643
-
-#EXTINF:-1,TNT NOVELAS
-http://assista.live:80/5528999773199/94596866/130635
-
-#EXTINF:-1,tnt series
-http://assista.live:80/5528999773199/94596866/130644
-
-#EXTINF:-1,Studio Universal (H265)
-http://assista.live:80/5528999773199/94596866/130633
-
-#EXTINF:-1,Warner
-http://assista.live:80/5528999773199/94596866/130646
-
-#EXTINF:-1,Band News
-http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
-
-#EXTINF:-1,CNN Brasil
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-
-#EXTINF:-1,Globo sport
-https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
-
-#EXTINF:-1,Globo News
-http://assista.live:80/5528999773199/94596866/130596
-
-#EXTINF:-1,Jovem Pan News
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-
-#EXTINF:-1,Modo Viagem
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14557.m3u8
-
-#EXTINF:-1,Prime
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14407
-
-#EXTINF:-1,E!
-http://assista.live:80/5528999773199/94596866/130586
-
-#EXTINF:-1,A&E
-http://assista.live:80/5528999773199/94596866/130563
 
 #EXTINF:-1,BIS
 http://assista.live:80/5528999773199/94596866/130569
