@@ -180,6 +180,9 @@ http://splaytv.club:80/amanda/amanda@personal/83351
 http://splaytv.club:80/amanda/amanda@personal/83354
 
 #EXTINF:-1,HBO Plus
+https://s.m3u9.top/a2/hls1/hboplus/__index.m3u8?mu3zAQc9HC3GbwJq=4uMW7xdZ16j4L6BVUeqi9Q&3U1G7qaTxrPbalZnEx=1700946659
+
+#EXTINF:-1,HBO Plus
 http://splaytv.club:80/amanda/amanda@personal/83352
 
 #EXTINF:-1,HBO Signature
