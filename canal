@@ -174,10 +174,16 @@ http://splaytv.club:80/amanda/amanda@personal/83346
 https://s.m3u9.top/a2/hls1/fx/__index.m3u8?mu3zAQc9HC3GbwJq=hyhjN5fr59mY3D9lSdsCmw&3U1G7qaTxrPbalZnEx=1700946232
 
 #EXTINF:-1,HBO
+https://s.m3u9.top/a2/hls1/hbo/__index.m3u8?mu3zAQc9HC3GbwJq=xtZIQpANnogTo45HDleZwA&3U1G7qaTxrPbalZnEx=1700950644
+
+#EXTINF:-1,HBO
 http://splaytv.club:80/amanda/amanda@personal/83351
 
 #EXTINF:-1,HBO 2
 https://s.m3u9.top/a2/hls1/hbo2/__index.m3u8?mu3zAQc9HC3GbwJq=bREy_JS5dbfTxF0L8VD7mw&3U1G7qaTxrPbalZnEx=1700947049
+
+#EXTINF:-1,HBO 2
+https://s.m3u9.top/a2/hls1/hbo2/__index.m3u8?mu3zAQc9HC3GbwJq=ZtyiNd6BCYVYk0N99ZwFSQ&3U1G7qaTxrPbalZnEx=1700949669
 
 #EXTINF:-1,HBO 2
 http://splaytv.club:80/amanda/amanda@personal/83354
@@ -189,6 +195,9 @@ https://s.m3u9.top/a2/hls1/hboplus/__index.m3u8?mu3zAQc9HC3GbwJq=4uMW7xdZ16j4L6B
 http://splaytv.club:80/amanda/amanda@personal/83352
 
 #EXTINF:-1,HBO Signature
+https://s.m3u9.top/a2/hls1/hbosignature/__index.m3u8?mu3zAQc9HC3GbwJq=1EoNaUQL9uO46MMaM893kQ&3U1G7qaTxrPbalZnEx=1700950166
+
+#EXTINF:-1,HBO Signature
 http://splaytv.club:80/amanda/amanda@personal/83353
 
 #EXTINF:-1,HBO Family
@@ -198,7 +207,13 @@ https://microzone.gq/hls1/hbofamily/1700918061217.class
 http://splaytv.club:80/amanda/amanda@personal/83350
 
 #EXTINF:-1,HBO mundi
+https://s.m3u9.top/a2/hls1/hbomundi/__index.m3u8?mu3zAQc9HC3GbwJq=ykT-ezWuI_71ZaHg5G-rkQ&3U1G7qaTxrPbalZnEx=1700950014
+
+#EXTINF:-1,HBO mundi
 http://splaytv.club:80/amanda/amanda@personal/83397
+
+#EXTINF:-1,HBO pop
+https://s.m3u9.top/a2/hls1/hbopop/__index.m3u8?mu3zAQc9HC3GbwJq=-xpD7wULk9bxmE5zXSQ6kg&3U1G7qaTxrPbalZnEx=1700949757
 
 #EXTINF:-1,HBO pop
 http://splaytv.club:80/amanda/amanda@personal/83356
@@ -252,16 +267,31 @@ http://splaytv.club:80/amanda/amanda@personal/83346
 http://splaytv.club:80/amanda/amanda@personal/83420
 
 #EXTINF:-1,Telecine Cult
+https://s.m3u9.top/a2/hls1/telecinecult/__index.m3u8?mu3zAQc9HC3GbwJq=jD03wE9mXhQ23boCoPuR3g&3U1G7qaTxrPbalZnEx=1700950547
+
+#EXTINF:-1,Telecine Cult
 http://splaytv.club:80/amanda/amanda@personal/83362
+
+#EXTINF:-1,Telecine Fun
+https://s.m3u9.top/a2/hls1/telecinefun/__index.m3u8?mu3zAQc9HC3GbwJq=tzKM4vbRXq8WXz636cL0vg&3U1G7qaTxrPbalZnEx=1700950484
 
 #EXTINF:-1,Telecine Fun
 http://splaytv.club:80/amanda/amanda@personal/83363
 
 #EXTINF:-1,Telecine Pipoca
+https://s.m3u9.top/a2/hls1/telecinepipoca/__index.m3u8?mu3zAQc9HC3GbwJq=rsr3imX487FQqOQ670GZjw&3U1G7qaTxrPbalZnEx=1700950434
+
+#EXTINF:-1,Telecine Pipoca
 http://splaytv.club:80/amanda/amanda@personal/83421
 
 #EXTINF:-1,Telecine Premium
+https://s.m3u9.top/a2/hls1/telecinepremium/__index.m3u8?mu3zAQc9HC3GbwJq=VMTPp9GEbtuX6LCjwXEOtQ&3U1G7qaTxrPbalZnEx=1700950303
+
+#EXTINF:-1,Telecine Premium
 http://splaytv.club:80/amanda/amanda@personal/83364
+
+#EXTINF:-1,Telecine Touch
+https://s.m3u9.top/a2/hls1/telecinetouch/__index.m3u8?mu3zAQc9HC3GbwJq=AxTxbN2O5yT6XI_7BT97Sg&3U1G7qaTxrPbalZnEx=1700950235
 
 #EXTINF:-1,Telecine Touch
 http://splaytv.club:80/amanda/amanda@personal/83365
