@@ -177,6 +177,9 @@ https://s.m3u9.top/a2/hls1/fx/__index.m3u8?mu3zAQc9HC3GbwJq=hyhjN5fr59mY3D9lSdsC
 http://splaytv.club:80/amanda/amanda@personal/83351
 
 #EXTINF:-1,HBO 2
+https://s.m3u9.top/a2/hls1/hbo2/__index.m3u8?mu3zAQc9HC3GbwJq=bREy_JS5dbfTxF0L8VD7mw&3U1G7qaTxrPbalZnEx=1700947049
+
+#EXTINF:-1,HBO 2
 http://splaytv.club:80/amanda/amanda@personal/83354
 
 #EXTINF:-1,HBO Plus
@@ -201,7 +204,13 @@ http://splaytv.club:80/amanda/amanda@personal/83397
 http://splaytv.club:80/amanda/amanda@personal/83356
 
 #EXTINF:-1,HBO xtreme
+https://s.m3u9.top/a2/hls1/hboxtreme/__index.m3u8?mu3zAQc9HC3GbwJq=Pnwlu4DRx3WlNHIi1jq8qQ&3U1G7qaTxrPbalZnEx=1700947206
+
+#EXTINF:-1,HBO xtreme
 http://splaytv.club:80/amanda/amanda@personal/83398
+
+#EXTINF:-1,Megapix
+https://s.m3u9.top/a2/hls1/megapix/__index.m3u8?mu3zAQc9HC3GbwJq=tQNbzHwec4RWepBo4L9xQA&3U1G7qaTxrPbalZnEx=1700947290
 
 #EXTINF:-1,Megapix
 http://splaytv.club:80/amanda/amanda@personal/83399
