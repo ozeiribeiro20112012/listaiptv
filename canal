@@ -189,6 +189,9 @@ http://splaytv.club:80/amanda/amanda@personal/83352
 http://splaytv.club:80/amanda/amanda@personal/83353
 
 #EXTINF:-1,HBO Family
+https://microzone.gq/hls1/hbofamily/1700918061217.class
+
+#EXTINF:-1,HBO Family
 http://splaytv.club:80/amanda/amanda@personal/83350
 
 #EXTINF:-1,HBO mundi
