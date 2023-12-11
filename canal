@@ -174,6 +174,9 @@ http://splaytv.club:80/amanda/amanda@personal/83339
 http://splaytv.club:80/amanda/amanda@personal/83346
 
 #EXTINF:-1,FX
+https://tvembed.net/fx/tracks-v1a1/mono.m3u8?remote=179.106.159.11&token=71942f1246b2d6b6cadd80f1f7b21a5916a339cc-b6aa872aa6a96629ff4ab2bf31575474-1702300629-1702293429
+
+#EXTINF:-1,FX
 https://s.m3u9.top/a2/hls1/fx/__index.m3u8?mu3zAQc9HC3GbwJq=hyhjN5fr59mY3D9lSdsCmw&3U1G7qaTxrPbalZnEx=1700946232
 
 #EXTINF:-1,HBO
@@ -181,9 +184,6 @@ https://s.m3u9.top/a2/hls1/hbo/__index.m3u8?mu3zAQc9HC3GbwJq=xtZIQpANnogTo45HDle
 
 #EXTINF:-1,HBO
 http://splaytv.club:80/amanda/amanda@personal/83351
-
-#EXTINF:-1,HBO 2
-https://s.m3u9.top/a2/hls1/hbo2/__index.m3u8?mu3zAQc9HC3GbwJq=bREy_JS5dbfTxF0L8VD7mw&3U1G7qaTxrPbalZnEx=1700947049
 
 #EXTINF:-1,HBO 2
 https://s.m3u9.top/a2/hls1/hbo2/__index.m3u8?mu3zAQc9HC3GbwJq=ZtyiNd6BCYVYk0N99ZwFSQ&3U1G7qaTxrPbalZnEx=1700949669
