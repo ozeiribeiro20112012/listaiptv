@@ -3,7 +3,7 @@
 #EXTM3U
 
 #EXTINF:-1,Globo
-http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 #EXTINF:-1,SBT
 https://livestream.zazerconer.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
