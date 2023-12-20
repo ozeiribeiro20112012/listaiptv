@@ -150,6 +150,15 @@ https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 #EXTINF:-1,premiere clubes
 https://s.m3u9.top/hls2/premiereclubes/__index.m3u8
 
+#EXTINF:-1,sportv 1
+https://s.m3u9.top/hls2/sportv1/__index.m3u8
+
+#EXTINF:-1,sportv 2
+https://s.m3u9.top/hls2/sportv2/__index.m3u8
+
+#EXTINF:-1,sportv 3
+https://s.m3u9.top/hls/sportv3/__index.m3u8
+
 #EXTINF:-1,Band News
 http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
 
