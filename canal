@@ -87,14 +87,68 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475-4-main.m
 #EXTINF:-1,HBO 2
 https://alisapreto.tk/hls1/hbo2/1703088627809.htm
 
+#EXTINF:-1,HBO 
+https://s.m3u9.top/hls2/hbo/__index.m3u8
+
+#EXTINF:-1,HBO family
+https://s.m3u9.top/hls2/hbofamily/__index.m3u8
+
+#EXTINF:-1,HBO pop
+https://s.m3u9.top/hls2/hbopop/__index.m3u8
+
+#EXTINF:-1,HBO xtreme
+https://s.m3u9.top/hls2/hboxtreme/__index.m3u8
+
+#EXTINF:-1,HBO PLUS
+https://s.m3u9.top/hls2/hboplus/__index.m3u8
+
+#EXTINF:-1,megapix
+https://s.m3u9.top/hls2/megapix/__index.m3u8
+
+#EXTINF:-1,amc
+https://s.m3u9.top/hls2/amc/__index.m3u8
+
+#EXTINF:-1,cinemax
+https://s.m3u9.top/hls2/cinemax/__index.m3u8
+
+#EXTINF:-1,axn
+https://s.m3u9.top/hls2/axn/__index.m3u8
+
+#EXTINF:-1,sony
+https://s.m3u9.top/hls2/sony/__index.m3u8
+
+#EXTINF:-1,telecine pipoca
+https://s.m3u9.top/hls2/telecinepipoca/__index.m3u8
+
+#EXTINF:-1,telecine premium
+https://s.m3u9.top/hls2/telecinepremium/__index.m3u8
+
+#EXTINF:-1,telecine fun
+https://s.m3u9.top/hls2/telecinefun/__index.m3u8
+
+#EXTINF:-1,telecine cult
+https://s.m3u9.top/hls2/telecinecult/__index.m3u8
+
+#EXTINF:-1,telecine touch
+https://s.m3u9.top/hls2/telecinetouch/__index.m3u8
+
+#EXTINF:-1,star channel
+https://s.m3u9.top/hls2/starchannel/__index.m3u8
+
 #EXTINF:-1,Space
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8?ManoTV
+
+#EXTINF:-1,fx
+https://s.m3u9.top/hls2/fx/__index.m3u8
 
 #EXTINF:-1,TCM
 https://cdn-1.nxplay.com.br/TCM_TK/index.m3u8
 
 #EXTINF:-1,TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1,premiere clubes
+https://s.m3u9.top/hls2/premiereclubes/__index.m3u8
 
 #EXTINF:-1,Band News
 http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
