@@ -27,9 +27,6 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u
 #EXTINF:-1,Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1121778449.m3u8
 
-#EXTINF:-1,Rede brasil
-https://tvcanais.xyz/rede_bra/index.fmp4.m3u8
-
 #EXTINF:-1,Record
 http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14566
 
@@ -41,9 +38,6 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/480p/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1p0r8AqYLphOE_TBHYfyRUBw-gKCRm11Czw&usqp=CAU" group-title=,TV Evangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-
-#EXTINF:-1,Futura
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/14560
 
 #EXTINF:-1,RIT
 https://ythlsgo.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
@@ -89,6 +83,9 @@ https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
 #EXTINF:-1,Sony
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475-4-main.m3u8
+
+#EXTINF:-1,HBO 2
+https://alisapreto.tk/hls1/hbo2/1703088627809.htm
 
 #EXTINF:-1,Space
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8?ManoTV
