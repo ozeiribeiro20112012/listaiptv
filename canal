@@ -12,6 +12,9 @@ https://livestream.zazerconer.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 #EXTINF:-1,Band
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 
+#EXTINF:-1,Jovem Pan
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+
 #EXTINF:-1,Canção Nova
 http://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/tracks-v1a1/mono.m3u8
 
