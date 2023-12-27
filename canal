@@ -189,7 +189,7 @@ https://s.m3u9.top/hls2/telecinecult/__index.m3u8
 #EXTINF:-1,telecine touch
 https://s.m3u9.top/hls2/telecinetouch/__index.m3u8
 
-#EXTINF:-1,STAR CHANNEL
+#EXTINF:-1,Star Channel
 https://s.m3u9.top/hls2/starchannel/__index.m3u8
 
 #EXTINF:-1,Space
@@ -198,11 +198,14 @@ https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8?ManoTV
 #EXTINF:-1,fx
 https://s.m3u9.top/hls2/fx/__index.m3u8
 
-#EXTINF:-1,PARAMOUNT NETWORK
+#EXTINF:-1,Paramount Network
 https://s.m3u9.top/hls2/paramount/__index.m3u8
 
-#EXTINF:-1,STUDIO UNIVERSAL
+#EXTINF:-1,Studio Universal
 https://s.m3u9.top/hls2/universal/__index.m3u8
+
+#EXTINF:-1,Studio Universal
+https://s.m3u9.top/hls2/studiouniversal/__index.m3u8
 
 #EXTINF:-1,Warner
 https://s.m3u9.top/hls2/warner/__index.m3u8
