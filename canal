@@ -105,14 +105,14 @@ https://s.m3u9.top/hls2/animalplanet/__index.m3u8
 #EXTINF:-1,Discovery Channel
 https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 
+#EXTINF:-1,Discovery Channel
+https://s.m3u9.top/hls2/discovery/__index.m3u8
+
 #EXTINF:-1,history
 https://s.m3u9.top/hls2/history/__index.m3u8
 
 #EXTINF:-1,H2
 https://s.m3u9.top/hls2/history2/__index.m3u8
-
-#EXTINF:-1,Discovery Channel
-https://s.m3u9.top/hls2/discovery/__index.m3u8
 
 #EXTINF:-1,Discovery Science
 https://cdn-1.nxplay.com.br/HISTORY2_NX/index.m3u8
@@ -138,11 +138,11 @@ https://i.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
 #EXTINF:-1,AMC
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
-#EXTINF:-1,Sony
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475-4-main.m3u8
+#EXTINF:-1,amc
+https://s.m3u9.top/hls2/amc/__index.m3u8
 
 #EXTINF:-1,HBO 2
-https://alisapreto.tk/hls1/hbo2/1703088627809.htm
+https://s.m3u9.top/hls2/hbo2/__index.m3u8
 
 #EXTINF:-1,HBO 
 https://s.m3u9.top/hls2/hbo/__index.m3u8
@@ -161,9 +161,6 @@ https://s.m3u9.top/hls2/hboplus/__index.m3u8
 
 #EXTINF:-1,megapix
 https://s.m3u9.top/hls2/megapix/__index.m3u8
-
-#EXTINF:-1,amc
-https://s.m3u9.top/hls2/amc/__index.m3u8
 
 #EXTINF:-1,cinemax
 https://s.m3u9.top/hls2/cinemax/__index.m3u8
