@@ -195,6 +195,9 @@ https://s.m3u9.top/hls2/starchannel/__index.m3u8
 #EXTINF:-1,Space
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8?ManoTV
 
+#EXTINF:-1,Space
+https://s.m3u9.top/hls2/space/__index.m3u8
+
 #EXTINF:-1,fx
 https://s.m3u9.top/hls2/fx/__index.m3u8
 
