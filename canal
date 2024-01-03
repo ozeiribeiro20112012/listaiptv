@@ -102,6 +102,9 @@ https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:-1,Animal Planet
 https://s.m3u9.top/hls2/animalplanet/__index.m3u8
 
+#EXTINF:-1,Discovery Home & Health
+https://s.m3u9.top/hls1/discoveryhomeihealth/__index.m3u8
+
 #EXTINF:-1,Discovery Channel
 https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 
