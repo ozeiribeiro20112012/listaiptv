@@ -132,15 +132,6 @@ https://s.m3u9.top/hls1/discoverytheater-sd/__index.m3u8
 #EXTINF:-1,National Geographic
 https://s.m3u9.top/hls2/natgeo/__index.m3u8
 
-#EXTINF:-1,cine skay
-https://i.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
-
-#EXTINF:-1,CINE COMÉDIA
-https://i.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8
-
-#EXTINF:-1,FICCAO CIENTIFICA
-https://i.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
-
 #EXTINF:-1,AMC
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
