@@ -117,6 +117,9 @@ https://s.m3u9.top/hls2/history2/__index.m3u8
 #EXTINF:-1,Discovery Science
 https://cdn-1.nxplay.com.br/HISTORY2_NX/index.m3u8
 
+#EXTINF:-1,Discovery Science
+https://s.m3u9.top/hls1/discoverysience/__index.m3u8
+
 #EXTINF:-1,Discovery Turbo
 https://s.m3u9.top/hls2/discoveryturbo/__index.m3u8
 
