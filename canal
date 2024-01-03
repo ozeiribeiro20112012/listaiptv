@@ -87,6 +87,9 @@ https://s.m3u9.top/hls2/nickjr/__index.m3u8
 #EXTINF:-1,Tooncast
 https://s.m3u9.top/hls2/tooncast/__index.m3u8
 
+#EXTINF:-1,Tooncast
+https://s.m3u9.top/hls1/tooncast/__index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh1VYFlmc-wZ68v1_wyFnu-ZQ4xZRIVpkUpZeOlm3ygA&s" group-title=,BABY SHARK TV
 https://i.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8
 
