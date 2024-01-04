@@ -273,5 +273,14 @@ https://s.m3u9.top/hls2/viva/__index.m3u8
 #EXTINF:-1,Play tv
 https://playtv.mediastreaming.com.br/play/live.stream/chunks.m3u8
 
+#EXTINF:-1,Ponte do Silva
+https://mia.rtsp.me/hls/DQbyk2i6.m3u8
+
+#EXTINF:-1,ponte dos arcos
+https://mia.rtsp.me/hls/i98bYGkY.m3u8
+
+#EXTINF:-1,Ponte rio branco
+https://mia.rtsp.me/hls/eTayTiAG.m3u8
+
 
 
