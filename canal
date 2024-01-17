@@ -127,7 +127,7 @@ https://s.m3u9.top/hls2/discoverytheater-sd/__index.m3u8
 https://s.m3u9.top/hls2/natgeo/__index.m3u8
 
 #EXTINF:-1,GLOBO
-https://live-main-origin.esporteone.com/GLOBORJHD/tracks-v1a1/mono.m3u8
+https://live-main-origin.esporteone.com/GLOBORJHD/index.fmp4.m3u8
 
 #EXTINF:-1,AMC
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
