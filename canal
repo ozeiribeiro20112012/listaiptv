@@ -126,6 +126,9 @@ https://s.m3u9.top/hls2/discoverytheater-sd/__index.m3u8
 #EXTINF:-1,National Geographic
 https://s.m3u9.top/hls2/natgeo/__index.m3u8
 
+#EXTINF:-1,A&E FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/418
+
 #EXTINF:-1,AMC
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
